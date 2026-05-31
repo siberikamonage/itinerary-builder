@@ -1,4 +1,4 @@
-import type { Metadata } from 'next'
+import type { Metadata, Viewport } from 'next'
 import './globals.css'
 import 'leaflet/dist/leaflet.css'
 import { ItineraryProvider } from '@/context/ItineraryContext'
@@ -6,6 +6,13 @@ import { ItineraryProvider } from '@/context/ItineraryContext'
 export const metadata: Metadata = {
   title: 'Shanghai Itinerary Builder',
   description: 'Build a personalized day-by-day itinerary for Shanghai in 2 minutes. Free, no sign-up required.',
+}
+
+export const viewport: Viewport = {
+  width: 'device-width',
+  initialScale: 1,
+  viewportFit: 'cover',
+  themeColor: '#ef4444',
 }
 
 export default function RootLayout({
