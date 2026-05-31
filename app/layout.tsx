@@ -1,5 +1,7 @@
 import type { Metadata } from 'next'
 import './globals.css'
+import 'leaflet/dist/leaflet.css'
+import { ItineraryProvider } from '@/context/ItineraryContext'
 
 export const metadata: Metadata = {
   title: 'Shanghai Itinerary Builder',
@@ -13,7 +15,11 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body>
+        <ItineraryProvider>
+          {children}
+        </ItineraryProvider>
+      </body>
     </html>
   )
 }
