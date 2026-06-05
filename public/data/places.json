@@ -1,5 +1,2774 @@
 [
   {
+    "id": "place_001",
+    "name": {
+      "en": "The Bund",
+      "zh": "外滩"
+    },
+    "category": "landmark",
+    "tags": [
+      "culture-history",
+      "hidden-gems",
+      "nightlife"
+    ],
+    "district": "Huangpu",
+    "adjacent_districts": [
+      "Xuhui",
+      "Jing'an",
+      "Hongkou",
+      "Pudong"
+    ],
+    "lat": 31.24,
+    "lng": 121.4905,
+    "description": "Shanghai's iconic 1.5km waterfront promenade with 52 historic buildings in Gothic, Neo-Classical, Art Deco and other styles. Best viewed at night for the contrast between Puxi architecture and Pudong skyline.",
+    "visit_duration_min": 45,
+    "cost_level": 0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/The_Bund_2013.jpg/1280px-The_Bund_2013.jpg",
+    "curated": true
+  },
+  {
+    "id": "place_002",
+    "name": {
+      "en": "Shanghai Museum",
+      "zh": "上海博物馆"
+    },
+    "category": "museum",
+    "tags": [
+      "culture-history",
+      "art-museums",
+      "family-friendly"
+    ],
+    "district": "Huangpu",
+    "adjacent_districts": [
+      "Xuhui",
+      "Jing'an",
+      "Hongkou",
+      "Pudong"
+    ],
+    "lat": 31.2302,
+    "lng": 121.4737,
+    "description": "One of China's first National First-Class Museums. Houses 1.02 million artifacts including 145,000 classified as national treasures. Bronze Gallery, Sculpture Gallery and Calligraphy masterpieces.",
+    "visit_duration_min": 120,
+    "cost_level": 1,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Shanghai_museum_structure.jpg/1280px-Shanghai_museum_structure.jpg",
+    "curated": true
+  },
+  {
+    "id": "place_003",
+    "name": {
+      "en": "Oriental Pearl Tower",
+      "zh": "东方明珠塔"
+    },
+    "category": "landmark",
+    "tags": [
+      "culture-history",
+      "family-friendly",
+      "hidden-gems"
+    ],
+    "district": "Pudong",
+    "adjacent_districts": [
+      "Huangpu",
+      "Xuhui",
+      "Yangpu"
+    ],
+    "lat": 31.2397,
+    "lng": 121.4997,
+    "description": "Shanghai's 468m iconic tower with 11 futuristic spheres. Features 259m glass-bottomed observation deck, VR rollercoaster, and Shanghai History Museum recreating old Shikumen alleys.",
+    "visit_duration_min": 45,
+    "cost_level": 0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Oriental_Pearl_Tower.jpg/800px-Oriental_Pearl_Tower.jpg",
+    "curated": true
+  },
+  {
+    "id": "place_004",
+    "name": {
+      "en": "Nanjing Road Pedestrian Street",
+      "zh": "南京路步行街"
+    },
+    "category": "shopping",
+    "tags": [
+      "shopping",
+      "family-friendly"
+    ],
+    "district": "Huangpu",
+    "adjacent_districts": [
+      "Xuhui",
+      "Jing'an",
+      "Hongkou",
+      "Pudong"
+    ],
+    "lat": 31.2354,
+    "lng": 121.476,
+    "description": "China's No.1 Commercial Street. International brands, time-honored Chinese brands, duty-free goods. Tax refund available for departing international travelers.",
+    "visit_duration_min": 90,
+    "cost_level": 1,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/East_Nanjing_Road_2020_%2850361842166%29.jpg/330px-East_Nanjing_Road_2020_%2850361842166%29.jpg",
+    "curated": true
+  },
+  {
+    "id": "place_005",
+    "name": {
+      "en": "Tianzifang",
+      "zh": "田子坊"
+    },
+    "category": "shopping",
+    "tags": [
+      "art-museums",
+      "shopping",
+      "hidden-gems",
+      "culture-history"
+    ],
+    "district": "Huangpu",
+    "adjacent_districts": [
+      "Xuhui",
+      "Jing'an",
+      "Hongkou",
+      "Pudong"
+    ],
+    "lat": 31.2097,
+    "lng": 121.4674,
+    "description": "Art district transformed from Shikumen (stone-gate) houses. Original designs, handmade jewelry, accessories, coffee-themed and cultural items. A blend of art galleries and unique boutique shops.",
+    "visit_duration_min": 90,
+    "cost_level": 1,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Tianzifang_Shanghai.jpg/1280px-Tianzifang_Shanghai.jpg",
+    "curated": true
+  },
+  {
+    "id": "place_006",
+    "name": {
+      "en": "Xintiandi",
+      "zh": "新天地"
+    },
+    "category": "shopping",
+    "tags": [
+      "shopping",
+      "culture-history",
+      "food-drink"
+    ],
+    "district": "Huangpu",
+    "adjacent_districts": [
+      "Xuhui",
+      "Jing'an",
+      "Hongkou",
+      "Pudong"
+    ],
+    "lat": 31.2195,
+    "lng": 121.4738,
+    "description": "International shopping district reimagined from Shikumen architecture. High-end retail stores, designer brands, imported home furnishings. Located adjacent to the First National Congress of the CPC.",
+    "visit_duration_min": 90,
+    "cost_level": 1,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Xintiandi5.jpg/330px-Xintiandi5.jpg",
+    "curated": true
+  },
+  {
+    "id": "place_007",
+    "name": {
+      "en": "Wukang Road",
+      "zh": "武康路"
+    },
+    "category": "landmark",
+    "tags": [
+      "hidden-gems",
+      "shopping",
+      "culture-history"
+    ],
+    "district": "Xuhui",
+    "adjacent_districts": [
+      "Huangpu",
+      "Changning",
+      "Minhang",
+      "Pudong"
+    ],
+    "lat": 31.21,
+    "lng": 121.4473,
+    "description": "A historic street preserving old Shanghai charm. Vintage stores, designer boutiques, Instagram-famous cafés. Home to the iconic Wukang Mansion. Top TikTok & REDnote check-in spot.",
+    "visit_duration_min": 45,
+    "cost_level": 0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Wukang_109.JPG/330px-Wukang_109.JPG",
+    "curated": true
+  },
+  {
+    "id": "place_008",
+    "name": {
+      "en": "Wukang Mansion",
+      "zh": "武康大楼"
+    },
+    "category": "landmark",
+    "tags": [
+      "culture-history",
+      "hidden-gems"
+    ],
+    "district": "Xuhui",
+    "adjacent_districts": [
+      "Huangpu",
+      "Changning",
+      "Minhang",
+      "Pudong"
+    ],
+    "lat": 31.2082,
+    "lng": 121.4432,
+    "description": "Iconic triangular-shaped building in the French Concession. Famous for photography and history. A must-visit architectural landmark.",
+    "visit_duration_min": 45,
+    "cost_level": 0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Wukang_Building_Shanghai.jpg/800px-Wukang_Building_Shanghai.jpg",
+    "curated": true
+  },
+  {
+    "id": "place_009",
+    "name": {
+      "en": "Qiantan TaiKooLi",
+      "zh": "前滩太古里"
+    },
+    "category": "shopping",
+    "tags": [
+      "shopping",
+      "food-drink",
+      "hidden-gems"
+    ],
+    "district": "Pudong",
+    "adjacent_districts": [
+      "Huangpu",
+      "Xuhui",
+      "Yangpu"
+    ],
+    "lat": 31.193,
+    "lng": 121.505,
+    "description": "Open-air district blending nature with luxury. Luxury brands (Louis Vuitton, Dior), Tsutaya Books, concentration of international flagship stores. Rooftop garden.",
+    "visit_duration_min": 90,
+    "cost_level": 2,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/%E4%B8%8A%E6%B5%B7%E5%89%8D%E6%BB%A9%E5%A4%AA%E5%8F%A4%E9%87%8C.jpg/330px-%E4%B8%8A%E6%B5%B7%E5%89%8D%E6%BB%A9%E5%A4%AA%E5%8F%A4%E9%87%8C.jpg",
+    "curated": true
+  },
+  {
+    "id": "place_010",
+    "name": {
+      "en": "Jing'an Kerry Centre",
+      "zh": "静安嘉里中心"
+    },
+    "category": "shopping",
+    "tags": [
+      "shopping"
+    ],
+    "district": "Jing'an",
+    "adjacent_districts": [
+      "Huangpu",
+      "Changning",
+      "Putuo",
+      "Hongkou"
+    ],
+    "lat": 31.2243,
+    "lng": 121.4467,
+    "description": "Luxury brands (Hermès, Bottega Veneta), organic supermarkets. Located adjacent to Jing'an Temple. Seamlessly blends commerce with culture. Hosts international art exhibitions.",
+    "visit_duration_min": 90,
+    "cost_level": 2,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_011",
+    "name": {
+      "en": "Holy Trinity Church",
+      "zh": "圣三一堂"
+    },
+    "category": "landmark",
+    "tags": [
+      "culture-history"
+    ],
+    "district": "Huangpu",
+    "adjacent_districts": [
+      "Xuhui",
+      "Jing'an",
+      "Hongkou",
+      "Pudong"
+    ],
+    "lat": 31.2393,
+    "lng": 121.4788,
+    "description": "Gothic Revival church built in 1869 by British architect Sir George Gilbert Scott. Served as the Anglican Church for British expatriates in Shanghai's international settlement era.",
+    "visit_duration_min": 45,
+    "cost_level": 0,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_012",
+    "name": {
+      "en": "Shen Bao Newspaper Office",
+      "zh": "申报馆"
+    },
+    "category": "landmark",
+    "tags": [
+      "culture-history"
+    ],
+    "district": "Huangpu",
+    "adjacent_districts": [
+      "Xuhui",
+      "Jing'an",
+      "Hongkou",
+      "Pudong"
+    ],
+    "lat": 31.2415,
+    "lng": 121.477,
+    "description": "Neoclassical building built in 1918. Headquarters of Shen Bao, a famous newspaper that played an important role in Shanghai's modern journalism history. Now an office building.",
+    "visit_duration_min": 45,
+    "cost_level": 0,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_013",
+    "name": {
+      "en": "Haichang Ocean Park",
+      "zh": "海昌海洋公园"
+    },
+    "category": "landmark",
+    "tags": [
+      "family-friendly",
+      "nature-parks"
+    ],
+    "district": "Pudong",
+    "adjacent_districts": [
+      "Huangpu",
+      "Xuhui",
+      "Yangpu"
+    ],
+    "lat": 30.9044,
+    "lng": 121.873,
+    "description": "Comprehensive ocean-themed amusement park. World's first Ultraman-themed pavilion, 155m underwater tunnel, Beluga Whale Theater. Night shows with light installations.",
+    "visit_duration_min": 45,
+    "cost_level": 0,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_014",
+    "name": {
+      "en": "teamLab Borderless Museum",
+      "zh": "无界美术馆"
+    },
+    "category": "museum",
+    "tags": [
+      "art-museums",
+      "family-friendly",
+      "hidden-gems"
+    ],
+    "district": "Huangpu",
+    "adjacent_districts": [
+      "Xuhui",
+      "Jing'an",
+      "Hongkou",
+      "Pudong"
+    ],
+    "lat": 31.2355,
+    "lng": 121.501,
+    "description": "Second teamLab Borderless museum in the world. 8,800sqm space with 50+ digital art works. 'Echoing Lamp Forest', 'Colorful Ocean Painting', and AI-generated 'Data Flower' installation.",
+    "visit_duration_min": 120,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_015",
+    "name": {
+      "en": "Shanghai Astronomy Museum",
+      "zh": "上海天文馆"
+    },
+    "category": "museum",
+    "tags": [
+      "family-friendly",
+      "culture-history"
+    ],
+    "district": "Pudong",
+    "adjacent_districts": [
+      "Huangpu",
+      "Xuhui",
+      "Yangpu"
+    ],
+    "lat": 30.8839,
+    "lng": 121.9293,
+    "description": "World's largest astronomy museum. Spherical projection technology, films about The Big Bang and Black Holes. 'Metaverse Stargazing' project lets visitors roam the Milky Way with virtual astronauts via VR.",
+    "visit_duration_min": 120,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_016",
+    "name": {
+      "en": "Contemporary Art Museum Shanghai (CAM)",
+      "zh": "当代艺术博物馆"
+    },
+    "category": "museum",
+    "tags": [
+      "art-museums",
+      "culture-history",
+      "hidden-gems"
+    ],
+    "district": "Huangpu",
+    "adjacent_districts": [
+      "Xuhui",
+      "Jing'an",
+      "Hongkou",
+      "Pudong"
+    ],
+    "lat": 31.235,
+    "lng": 121.5015,
+    "description": "Industrial-style design venue. Hosts 'AI Art Season' with works like 'Flower of Data' and 'Mechanical Muse'. Rooftop café with Huangpu River views. Interactive mobile app exhibits.",
+    "visit_duration_min": 120,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_017",
+    "name": {
+      "en": "Wuzhong Market",
+      "zh": "吴中路菜场"
+    },
+    "category": "market",
+    "tags": [
+      "food-drink",
+      "hidden-gems",
+      "culture-history"
+    ],
+    "district": "Xuhui",
+    "adjacent_districts": [
+      "Huangpu",
+      "Changning",
+      "Minhang",
+      "Pudong"
+    ],
+    "lat": 31.197,
+    "lng": 121.426,
+    "description": "'Shanghai's Coolest Wet Market'. Fresh produce from local grannies, trendy bakeries, pop-up art exhibitions behind a retro-modern façade. Start your morning with a bowl of chaiban wontons.",
+    "visit_duration_min": 75,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_018",
+    "name": {
+      "en": "Lanling Flower & Bird Market",
+      "zh": "兰陵花鸟市场"
+    },
+    "category": "market",
+    "tags": [
+      "hidden-gems",
+      "culture-history",
+      "family-friendly"
+    ],
+    "district": "Jing'an",
+    "adjacent_districts": [
+      "Huangpu",
+      "Changning",
+      "Putuo",
+      "Hongkou"
+    ],
+    "lat": 31.281,
+    "lng": 121.459,
+    "description": "Shanghai's largest and most comprehensive market for plants, pets and antiques. 8,000sqm with 500-600 stalls. Vibrant roses, succulents, exotic reptiles, vintage porcelain and antiques.",
+    "visit_duration_min": 75,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_019",
+    "name": {
+      "en": "Wu You Xian",
+      "zh": "吴有限"
+    },
+    "category": "restaurant",
+    "tags": [
+      "food-drink"
+    ],
+    "district": "Huangpu",
+    "adjacent_districts": [
+      "Xuhui",
+      "Jing'an",
+      "Hongkou",
+      "Pudong"
+    ],
+    "lat": 31.2185,
+    "lng": 121.4645,
+    "description": "Newly promoted Michelin one-star. Only restaurant in Shanghai to receive a star for its xiaolongbao. Signature 'Crab Trio' features clear amber broth with distinct crab meat grains. Open kitchen.",
+    "visit_duration_min": 60,
+    "cost_level": 2,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_020",
+    "name": {
+      "en": "Laodi Fang Noodle Restaurant",
+      "zh": "老地方面馆"
+    },
+    "category": "restaurant",
+    "tags": [
+      "food-drink"
+    ],
+    "district": "Huangpu",
+    "adjacent_districts": [
+      "Xuhui",
+      "Jing'an",
+      "Hongkou",
+      "Pudong"
+    ],
+    "lat": 31.22,
+    "lng": 121.4725,
+    "description": "Michelin Bib Gourmand 2025. Signature 'Pork Liver Noodles': pork liver stir-fried with hot oil for smoky aroma, served with alkaline noodles.",
+    "visit_duration_min": 60,
+    "cost_level": 2,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_021",
+    "name": {
+      "en": "Sijing Night Market",
+      "zh": "泗泾夜市"
+    },
+    "category": "market",
+    "tags": [
+      "food-drink",
+      "nightlife",
+      "hidden-gems"
+    ],
+    "district": "Songjiang",
+    "adjacent_districts": [
+      "Minhang",
+      "Qingpu",
+      "Jiading",
+      "Jinshan",
+      "Fengxian"
+    ],
+    "lat": 31.0048,
+    "lng": 121.3952,
+    "description": "Shanghai's largest open-air night market. 'Intangible Cultural Heritage Food Area' added in 2025. Try Leshan bowl chicken with tripe soaked in red oil broth. Free power banks and bilingual maps at entrance.",
+    "visit_duration_min": 75,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_022",
+    "name": {
+      "en": "Awen Night Market",
+      "zh": "阿文夜市"
+    },
+    "category": "market",
+    "tags": [
+      "food-drink",
+      "nightlife"
+    ],
+    "district": "Hongkou",
+    "adjacent_districts": [
+      "Huangpu",
+      "Jing'an",
+      "Yangpu"
+    ],
+    "lat": 31.259,
+    "lng": 121.508,
+    "description": "24-hour store. The 'Four Great Staples' of Shanghai breakfast: salty soy milk with youtiao, tofu pudding. Late night: scallion-oil noodles. Vibrant atmosphere of old Shanghai.",
+    "visit_duration_min": 75,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_023",
+    "name": {
+      "en": "Weixiangzhai Sesame Noodles",
+      "zh": "味香斋麻酱面"
+    },
+    "category": "restaurant",
+    "tags": [
+      "food-drink"
+    ],
+    "district": "Huangpu",
+    "adjacent_districts": [
+      "Xuhui",
+      "Jing'an",
+      "Hongkou",
+      "Pudong"
+    ],
+    "lat": 31.2183,
+    "lng": 121.468,
+    "description": "Classic Shanghai sesame paste noodles, a local institution near Madang Road.",
+    "visit_duration_min": 60,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_024",
+    "name": {
+      "en": "OUR Bakery",
+      "zh": "OUR Bakery 中海环宇荟店"
+    },
+    "category": "restaurant",
+    "tags": [
+      "food-drink"
+    ],
+    "district": "Huangpu",
+    "adjacent_districts": [
+      "Xuhui",
+      "Jing'an",
+      "Hongkou",
+      "Pudong"
+    ],
+    "lat": 31.219,
+    "lng": 121.472,
+    "description": "A restaurant located in Shanghai's Huangpu district.",
+    "visit_duration_min": 60,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_025",
+    "name": {
+      "en": "AMAM LONBAKERY TOWN",
+      "zh": "AMAM面包小镇"
+    },
+    "category": "restaurant",
+    "tags": [
+      "food-drink"
+    ],
+    "district": "Huangpu",
+    "adjacent_districts": [
+      "Xuhui",
+      "Jing'an",
+      "Hongkou",
+      "Pudong"
+    ],
+    "lat": 31.2355,
+    "lng": 121.502,
+    "description": "Popular bakery chain with multiple Shanghai locations. Known for Japanese-style artisan breads.",
+    "visit_duration_min": 60,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_026",
+    "name": {
+      "en": "looknow lab (Xintiandi)",
+      "zh": "looknow lab 新天地店"
+    },
+    "category": "shopping",
+    "tags": [
+      "shopping",
+      "hidden-gems"
+    ],
+    "district": "Huangpu",
+    "adjacent_districts": [
+      "Xuhui",
+      "Jing'an",
+      "Hongkou",
+      "Pudong"
+    ],
+    "lat": 31.2195,
+    "lng": 121.4738,
+    "description": "A shopping located in Shanghai's Huangpu district.",
+    "visit_duration_min": 90,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_027",
+    "name": {
+      "en": "HARMAY",
+      "zh": "话梅"
+    },
+    "category": "shopping",
+    "tags": [
+      "shopping"
+    ],
+    "district": "Huangpu",
+    "adjacent_districts": [
+      "Xuhui",
+      "Jing'an",
+      "Hongkou",
+      "Pudong"
+    ],
+    "lat": 31.22,
+    "lng": 121.47,
+    "description": "Concept beauty and lifestyle store popular with younger Shanghai crowd.",
+    "visit_duration_min": 90,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_028",
+    "name": {
+      "en": "HIRONO",
+      "zh": "HIRONO小野"
+    },
+    "category": "shopping",
+    "tags": [
+      "shopping"
+    ],
+    "district": "Huangpu",
+    "adjacent_districts": [
+      "Xuhui",
+      "Jing'an",
+      "Hongkou",
+      "Pudong"
+    ],
+    "lat": 31.2196,
+    "lng": 121.474,
+    "description": "A shopping located in Shanghai's Huangpu district.",
+    "visit_duration_min": 90,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_029",
+    "name": {
+      "en": "Apolita Bakery",
+      "zh": "Apolita Bakery"
+    },
+    "category": "restaurant",
+    "tags": [
+      "food-drink"
+    ],
+    "district": "Changning",
+    "adjacent_districts": [
+      "Jing'an",
+      "Xuhui",
+      "Putuo",
+      "Minhang"
+    ],
+    "lat": 31.2215,
+    "lng": 121.407,
+    "description": "Recommended butter bread in Shanghai. Good value compared to Korean or Japanese famous bakeries.",
+    "visit_duration_min": 60,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_030",
+    "name": {
+      "en": "Butterful and Creamy",
+      "zh": "Butterful and Creamy"
+    },
+    "category": "restaurant",
+    "tags": [
+      "food-drink"
+    ],
+    "district": "Jing'an",
+    "adjacent_districts": [
+      "Huangpu",
+      "Changning",
+      "Putuo",
+      "Hongkou"
+    ],
+    "lat": 31.2243,
+    "lng": 121.447,
+    "description": "A restaurant located in Shanghai's Jing'an district.",
+    "visit_duration_min": 60,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_031",
+    "name": {
+      "en": "B&C Butter Bread",
+      "zh": "B&C黄油面包"
+    },
+    "category": "restaurant",
+    "tags": [
+      "food-drink"
+    ],
+    "district": "Jing'an",
+    "adjacent_districts": [
+      "Huangpu",
+      "Changning",
+      "Putuo",
+      "Hongkou"
+    ],
+    "lat": 31.2196,
+    "lng": 121.4738,
+    "description": "French castle-style bakery. Famous matcha croissant with green tea aroma. Open 12:00-22:00.",
+    "visit_duration_min": 60,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_032",
+    "name": {
+      "en": "HOT CRUSH",
+      "zh": "HOT CRUSH趁热集合"
+    },
+    "category": "restaurant",
+    "tags": [
+      "food-drink"
+    ],
+    "district": "Huangpu",
+    "adjacent_districts": [
+      "Xuhui",
+      "Jing'an",
+      "Hongkou",
+      "Pudong"
+    ],
+    "lat": 31.23,
+    "lng": 121.4755,
+    "description": "Trending bakery collective. Known for matcha tiramisu croissant. Open Monday-Sunday.",
+    "visit_duration_min": 60,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_033",
+    "name": {
+      "en": "PAPER STONE BAKERY",
+      "zh": "PAPER STONE BAKERY"
+    },
+    "category": "restaurant",
+    "tags": [
+      "food-drink"
+    ],
+    "district": "Jing'an",
+    "adjacent_districts": [
+      "Huangpu",
+      "Changning",
+      "Putuo",
+      "Hongkou"
+    ],
+    "lat": 31.2243,
+    "lng": 121.4467,
+    "description": "Matcha beef croissant. Perfectly balanced tea flavor. Open 10:00-22:00.",
+    "visit_duration_min": 60,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_034",
+    "name": {
+      "en": "Xishu Puffs (Chez Choux)",
+      "zh": "西树泡芙"
+    },
+    "category": "restaurant",
+    "tags": [
+      "food-drink"
+    ],
+    "district": "Jing'an",
+    "adjacent_districts": [
+      "Huangpu",
+      "Changning",
+      "Putuo",
+      "Hongkou"
+    ],
+    "lat": 31.23,
+    "lng": 121.458,
+    "description": "Matcha puffs with high matcha content, ice cream-like cold filling. Open 10:00-22:00 (Mon-Sun).",
+    "visit_duration_min": 60,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_035",
+    "name": {
+      "en": "Spot Table",
+      "zh": "Spot Table"
+    },
+    "category": "restaurant",
+    "tags": [
+      "food-drink"
+    ],
+    "district": "Xuhui",
+    "adjacent_districts": [
+      "Huangpu",
+      "Changning",
+      "Minhang",
+      "Pudong"
+    ],
+    "lat": 31.21,
+    "lng": 121.468,
+    "description": "One of Shanghai's 8 must-visit coffee shops. Known for quality specialty coffee.",
+    "visit_duration_min": 60,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_036",
+    "name": {
+      "en": "Oaks 19",
+      "zh": "Oaks 19"
+    },
+    "category": "restaurant",
+    "tags": [
+      "food-drink"
+    ],
+    "district": "Xuhui",
+    "adjacent_districts": [
+      "Huangpu",
+      "Changning",
+      "Minhang",
+      "Pudong"
+    ],
+    "lat": 31.212,
+    "lng": 121.462,
+    "description": "Shanghai must-visit café. Known for specialty pour-over coffee.",
+    "visit_duration_min": 60,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_037",
+    "name": {
+      "en": "bobac",
+      "zh": "bobac"
+    },
+    "category": "restaurant",
+    "tags": [
+      "food-drink"
+    ],
+    "district": "Xuhui",
+    "adjacent_districts": [
+      "Huangpu",
+      "Changning",
+      "Minhang",
+      "Pudong"
+    ],
+    "lat": 31.211,
+    "lng": 121.467,
+    "description": "Minimal, stylish café with quality coffee. One of Shanghai's 8 must-visit coffee shops.",
+    "visit_duration_min": 60,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_038",
+    "name": {
+      "en": "Plusone Coffee",
+      "zh": "Plusone 咖啡"
+    },
+    "category": "restaurant",
+    "tags": [
+      "food-drink"
+    ],
+    "district": "Xuhui",
+    "adjacent_districts": [
+      "Huangpu",
+      "Changning",
+      "Minhang",
+      "Pudong"
+    ],
+    "lat": 31.212,
+    "lng": 121.468,
+    "description": "Outdoor seating café in French Concession. Known for relaxed atmosphere.",
+    "visit_duration_min": 60,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_039",
+    "name": {
+      "en": "TRIFLE",
+      "zh": "TRIFLE掇福"
+    },
+    "category": "restaurant",
+    "tags": [
+      "food-drink"
+    ],
+    "district": "Xuhui",
+    "adjacent_districts": [
+      "Huangpu",
+      "Changning",
+      "Minhang",
+      "Pudong"
+    ],
+    "lat": 31.213,
+    "lng": 121.464,
+    "description": "Trendy café in French Concession area. Instagrammable storefront.",
+    "visit_duration_min": 60,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_040",
+    "name": {
+      "en": "Manner Coffee (Bund View)",
+      "zh": "Manner Coffee 外滩店"
+    },
+    "category": "restaurant",
+    "tags": [
+      "food-drink",
+      "hidden-gems"
+    ],
+    "district": "Huangpu",
+    "adjacent_districts": [
+      "Xuhui",
+      "Jing'an",
+      "Hongkou",
+      "Pudong"
+    ],
+    "lat": 31.241,
+    "lng": 121.491,
+    "description": "Manner Coffee branch with stunning floor-to-ceiling window view of Oriental Pearl Tower and The Bund across the river.",
+    "visit_duration_min": 60,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_041",
+    "name": {
+      "en": "Snoozing Kangaroo Coffee",
+      "zh": "睡不醒袋鼠咖啡商店"
+    },
+    "category": "restaurant",
+    "tags": [
+      "food-drink",
+      "hidden-gems"
+    ],
+    "district": "Xuhui",
+    "adjacent_districts": [
+      "Huangpu",
+      "Changning",
+      "Minhang",
+      "Pudong"
+    ],
+    "lat": 31.209,
+    "lng": 121.463,
+    "description": "Unique themed café with warm, homey interior. Specialty pour-over.",
+    "visit_duration_min": 60,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_042",
+    "name": {
+      "en": "C Cafe (Naiyun Bookstore)",
+      "zh": "C Cafe 乃云堂书院"
+    },
+    "category": "restaurant",
+    "tags": [
+      "food-drink",
+      "hidden-gems"
+    ],
+    "district": "Pudong",
+    "adjacent_districts": [
+      "Huangpu",
+      "Xuhui",
+      "Yangpu"
+    ],
+    "lat": 31.222,
+    "lng": 121.502,
+    "description": "Bookstore café hybrid. Surrounded by bookshelves with archway aesthetics. Great for reading and coffee.",
+    "visit_duration_min": 60,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_043",
+    "name": {
+      "en": "Renmin Café (North Bund)",
+      "zh": "北外滩人民咖啡店"
+    },
+    "category": "restaurant",
+    "tags": [
+      "food-drink",
+      "hidden-gems"
+    ],
+    "district": "Hongkou",
+    "adjacent_districts": [
+      "Huangpu",
+      "Jing'an",
+      "Yangpu"
+    ],
+    "lat": 31.258,
+    "lng": 121.496,
+    "description": "Cozy café by the North Bund with views of Huangpu River and Pudong skyline. Popular free spot for expats and tourists.",
+    "visit_duration_min": 60,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_044",
+    "name": {
+      "en": "Old Six Cafeer / Swing Café",
+      "zh": "苏州河边秋千咖啡 / oldsixcafeer"
+    },
+    "category": "restaurant",
+    "tags": [
+      "food-drink",
+      "hidden-gems"
+    ],
+    "district": "Putuo",
+    "adjacent_districts": [
+      "Jing'an",
+      "Changning",
+      "Baoshan"
+    ],
+    "lat": 31.25,
+    "lng": 121.433,
+    "description": "Charming riverside café with swings. Perfect for relaxing afternoons and photos along Suzhou Creek.",
+    "visit_duration_min": 60,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_045",
+    "name": {
+      "en": "Qipu Litful Plaza",
+      "zh": "七浦荟"
+    },
+    "category": "shopping",
+    "tags": [
+      "shopping"
+    ],
+    "district": "Hongkou",
+    "adjacent_districts": [
+      "Huangpu",
+      "Jing'an",
+      "Yangpu"
+    ],
+    "lat": 31.26,
+    "lng": 121.48,
+    "description": "Affordable fashion market. Everything under RMB100. Multiple floors of budget clothing and accessories.",
+    "visit_duration_min": 90,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_046",
+    "name": {
+      "en": "TX Huaihai",
+      "zh": "TX淮海"
+    },
+    "category": "shopping",
+    "tags": [
+      "shopping"
+    ],
+    "district": "Huangpu",
+    "adjacent_districts": [
+      "Xuhui",
+      "Jing'an",
+      "Hongkou",
+      "Pudong"
+    ],
+    "lat": 31.216,
+    "lng": 121.471,
+    "description": "Full of local premium and niche brands. Youth-oriented shopping centre with international designer collaborations.",
+    "visit_duration_min": 90,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_047",
+    "name": {
+      "en": "Anfu Road",
+      "zh": "安福路"
+    },
+    "category": "landmark",
+    "tags": [
+      "shopping",
+      "hidden-gems"
+    ],
+    "district": "Xuhui",
+    "adjacent_districts": [
+      "Huangpu",
+      "Changning",
+      "Minhang",
+      "Pudong"
+    ],
+    "lat": 31.215,
+    "lng": 121.454,
+    "description": "Tree-lined street full of cute boutique shops. Home to Harmay, 13DE MARZO, Wiggle Wiggle and many independent labels. One of Shanghai's most photographed streets.",
+    "visit_duration_min": 45,
+    "cost_level": 0,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_048",
+    "name": {
+      "en": "Wiggle Wiggle",
+      "zh": "Wiggle Wiggle"
+    },
+    "category": "shopping",
+    "tags": [
+      "shopping"
+    ],
+    "district": "Xuhui",
+    "adjacent_districts": [
+      "Huangpu",
+      "Changning",
+      "Minhang",
+      "Pudong"
+    ],
+    "lat": 31.2152,
+    "lng": 121.4542,
+    "description": "Playful character-themed lifestyle shop on Anfu Road. Known for the giant bear mascot at the entrance.",
+    "visit_duration_min": 90,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_049",
+    "name": {
+      "en": "13DE MARZO",
+      "zh": "13DE MARZO"
+    },
+    "category": "shopping",
+    "tags": [
+      "shopping"
+    ],
+    "district": "Xuhui",
+    "adjacent_districts": [
+      "Huangpu",
+      "Changning",
+      "Minhang",
+      "Pudong"
+    ],
+    "lat": 31.2153,
+    "lng": 121.454,
+    "description": "Fashion boutique on Anfu Road. Bright, well-lit interiors. Popular with fashion-forward visitors.",
+    "visit_duration_min": 90,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_050",
+    "name": {
+      "en": "Rockbund Art Museum (RAM)",
+      "zh": "外滩美术馆"
+    },
+    "category": "museum",
+    "tags": [
+      "art-museums",
+      "culture-history"
+    ],
+    "district": "Huangpu",
+    "adjacent_districts": [
+      "Xuhui",
+      "Jing'an",
+      "Hongkou",
+      "Pudong"
+    ],
+    "lat": 31.242,
+    "lng": 121.487,
+    "description": "Modern art museum near The Bund. Known for innovative exhibitions and cultural programming. Features river-facing galleries.",
+    "visit_duration_min": 120,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_051",
+    "name": {
+      "en": "Former Residence of He Dong",
+      "zh": "何东旧居"
+    },
+    "category": "landmark",
+    "tags": [
+      "culture-history",
+      "hidden-gems"
+    ],
+    "district": "Jing'an",
+    "adjacent_districts": [
+      "Huangpu",
+      "Changning",
+      "Putuo",
+      "Hongkou"
+    ],
+    "lat": 31.225,
+    "lng": 121.449,
+    "description": "Preserved historical home of Sir He Dong, reflecting old Shanghai's elegance. Free to visit.",
+    "visit_duration_min": 45,
+    "cost_level": 0,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_052",
+    "name": {
+      "en": "Corner Flower Shop",
+      "zh": "转角花店"
+    },
+    "category": "landmark",
+    "tags": [
+      "hidden-gems"
+    ],
+    "district": "Jing'an",
+    "adjacent_districts": [
+      "Huangpu",
+      "Changning",
+      "Putuo",
+      "Hongkou"
+    ],
+    "lat": 31.219,
+    "lng": 121.454,
+    "description": "Picturesque flower shop on a street corner. Often featured in lifestyle photos and Xiaohongshu content.",
+    "visit_duration_min": 45,
+    "cost_level": 0,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_053",
+    "name": {
+      "en": "Green House at Taiyuan & Yongjia Roads",
+      "zh": "太原路与永嘉路绿房子"
+    },
+    "category": "landmark",
+    "tags": [
+      "hidden-gems",
+      "culture-history"
+    ],
+    "district": "Xuhui",
+    "adjacent_districts": [
+      "Huangpu",
+      "Changning",
+      "Minhang",
+      "Pudong"
+    ],
+    "lat": 31.212,
+    "lng": 121.464,
+    "description": "Historic eye-catching building completely covered in green ivy, hidden in the French Concession. One of Shanghai's most photographed hidden gems.",
+    "visit_duration_min": 45,
+    "cost_level": 0,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_054",
+    "name": {
+      "en": "North Bund Mini Egg Dome Pathway",
+      "zh": "通往北外滩小巨蛋步道"
+    },
+    "category": "landmark",
+    "tags": [
+      "hidden-gems"
+    ],
+    "district": "Hongkou",
+    "adjacent_districts": [
+      "Huangpu",
+      "Jing'an",
+      "Yangpu"
+    ],
+    "lat": 31.258,
+    "lng": 121.4965,
+    "description": "Scenic walking path leading to the unique 'little egg-shaped' landmark along the Bund. Popular photography spot.",
+    "visit_duration_min": 45,
+    "cost_level": 0,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_055",
+    "name": {
+      "en": "M50 Creative Park",
+      "zh": "M50创意园"
+    },
+    "category": "gallery",
+    "tags": [
+      "art-museums",
+      "hidden-gems",
+      "culture-history"
+    ],
+    "district": "Putuo",
+    "adjacent_districts": [
+      "Jing'an",
+      "Changning",
+      "Baoshan"
+    ],
+    "lat": 31.2463,
+    "lng": 121.4404,
+    "description": "Shanghai's leading contemporary art hub in converted factories along Suzhou Creek. Galleries, studios, and independent concept stores.",
+    "visit_duration_min": 75,
+    "cost_level": 0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/M50_Shanghai.jpg/1280px-M50_Shanghai.jpg",
+    "curated": true
+  },
+  {
+    "id": "place_056",
+    "name": {
+      "en": "1933 Old Millfun",
+      "zh": "1933老场坊"
+    },
+    "category": "gallery",
+    "tags": [
+      "art-museums",
+      "culture-history",
+      "hidden-gems"
+    ],
+    "district": "Hongkou",
+    "adjacent_districts": [
+      "Huangpu",
+      "Jing'an",
+      "Yangpu"
+    ],
+    "lat": 31.2603,
+    "lng": 121.4933,
+    "description": "Converted 1930s slaughterhouse now a creative space. Unique spiral walkways, pop-up exhibitions, concept stores, and events.",
+    "visit_duration_min": 75,
+    "cost_level": 0,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_057",
+    "name": {
+      "en": "EKA Tianwu",
+      "zh": "EKA天物"
+    },
+    "category": "gallery",
+    "tags": [
+      "art-museums",
+      "shopping"
+    ],
+    "district": "Pudong",
+    "adjacent_districts": [
+      "Huangpu",
+      "Xuhui",
+      "Yangpu"
+    ],
+    "lat": 31.228,
+    "lng": 121.525,
+    "description": "Youth-oriented art and lifestyle park. Outdoor terrace, restaurant clusters and concept stores. Across the river from Shanghai International Fashion Centre.",
+    "visit_duration_min": 75,
+    "cost_level": 0,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_058",
+    "name": {
+      "en": "Shanghai Greenhouse Garden",
+      "zh": "上海温室花园"
+    },
+    "category": "landmark",
+    "tags": [
+      "family-friendly",
+      "nature-parks"
+    ],
+    "district": "Minhang",
+    "adjacent_districts": [
+      "Xuhui",
+      "Changning",
+      "Songjiang",
+      "Qingpu",
+      "Fengxian"
+    ],
+    "lat": 31.14,
+    "lng": 121.36,
+    "description": "Asia's largest glass greenhouse garden opened 2024. 'Dinosaur World', rain forest, 3000+ exotic plants. Open 09:00-17:00 (closed weekly on legal holidays except statutory holidays). Entry: ¥98/adult weekday, ¥128 weekend.",
+    "visit_duration_min": 45,
+    "cost_level": 0,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_059",
+    "name": {
+      "en": "Suzhewan Wandahui (Suhe Bay MixC World)",
+      "zh": "苏河湾万象天地"
+    },
+    "category": "shopping",
+    "tags": [
+      "shopping",
+      "food-drink",
+      "nightlife"
+    ],
+    "district": "Jing'an",
+    "adjacent_districts": [
+      "Huangpu",
+      "Changning",
+      "Putuo",
+      "Hongkou"
+    ],
+    "lat": 31.2495,
+    "lng": 121.461,
+    "description": "Along the Suzhou Creek riverside, open-air white bridge, outer blocks. 2km walkable. Good for night walks.",
+    "visit_duration_min": 90,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_060",
+    "name": {
+      "en": "Shangshenxinsuo (Columbia Circle)",
+      "zh": "上生新所"
+    },
+    "category": "gallery",
+    "tags": [
+      "art-museums",
+      "culture-history",
+      "hidden-gems",
+      "food-drink"
+    ],
+    "district": "Changning",
+    "adjacent_districts": [
+      "Jing'an",
+      "Xuhui",
+      "Putuo",
+      "Minhang"
+    ],
+    "lat": 31.218,
+    "lng": 121.412,
+    "description": "Urban renewal project in 1924 buildings including 萬屋書店 and former Navy Club (swimming pool). 1931 孙科别墅 (Sun Ke Villa). Concept stores, quality restaurants, outdoor terrace. Adjacent to many old Western-style villas.",
+    "visit_duration_min": 75,
+    "cost_level": 0,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_061",
+    "name": {
+      "en": "Longhua Meeting",
+      "zh": "龙华会"
+    },
+    "category": "gallery",
+    "tags": [
+      "art-museums",
+      "culture-history",
+      "hidden-gems"
+    ],
+    "district": "Xuhui",
+    "adjacent_districts": [
+      "Huangpu",
+      "Changning",
+      "Minhang",
+      "Pudong"
+    ],
+    "lat": 31.1783,
+    "lng": 121.46,
+    "description": "Near Longhua Pagoda, Longhua Temple, Lie Shi Mausoleum. Good base for a full Xuhui citywalk day.",
+    "visit_duration_min": 75,
+    "cost_level": 0,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_062",
+    "name": {
+      "en": "Shankang Li",
+      "zh": "陕康里"
+    },
+    "category": "gallery",
+    "tags": [
+      "art-museums",
+      "hidden-gems",
+      "culture-history"
+    ],
+    "district": "Jing'an",
+    "adjacent_districts": [
+      "Huangpu",
+      "Changning",
+      "Putuo",
+      "Hongkou"
+    ],
+    "lat": 31.24,
+    "lng": 121.451,
+    "description": "Two century-old Shikumen buildings (one was Yin Ruikeji church, now a gallery; one was originally a foreign concession patrol post, now a design co-working space). Creative dining recommendation.",
+    "visit_duration_min": 75,
+    "cost_level": 0,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_063",
+    "name": {
+      "en": "Hongshoufang",
+      "zh": "鸿寿坊"
+    },
+    "category": "gallery",
+    "tags": [
+      "food-drink",
+      "art-museums",
+      "hidden-gems"
+    ],
+    "district": "Putuo",
+    "adjacent_districts": [
+      "Jing'an",
+      "Changning",
+      "Baoshan"
+    ],
+    "lat": 31.251,
+    "lng": 121.443,
+    "description": "Smoky warehouse-style Jiangnan alleyway market. Two floors with many types of shops. Good for browsing.",
+    "visit_duration_min": 75,
+    "cost_level": 0,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_064",
+    "name": {
+      "en": "Xinhua Road",
+      "zh": "新华路"
+    },
+    "category": "landmark",
+    "tags": [
+      "hidden-gems",
+      "culture-history"
+    ],
+    "district": "Changning",
+    "adjacent_districts": [
+      "Jing'an",
+      "Xuhui",
+      "Putuo",
+      "Minhang"
+    ],
+    "lat": 31.213,
+    "lng": 121.4195,
+    "description": "Known as 'Shanghai's No.1 Garden Street'. Tree-lined boulevard with 1920s-30s architecture, villas, and independent boutiques. Perfect for a relaxed stroll.",
+    "visit_duration_min": 45,
+    "cost_level": 0,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_065",
+    "name": {
+      "en": "Fotografiska Shanghai",
+      "zh": "摄影艺术中心"
+    },
+    "category": "museum",
+    "tags": [
+      "art-museums",
+      "hidden-gems",
+      "culture-history"
+    ],
+    "district": "Jing'an",
+    "adjacent_districts": [
+      "Huangpu",
+      "Changning",
+      "Putuo",
+      "Hongkou"
+    ],
+    "lat": 31.248,
+    "lng": 121.453,
+    "description": "Branch of the world-famous photography museum. Rotating international exhibitions in a converted riverside building.",
+    "visit_duration_min": 120,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_066",
+    "name": {
+      "en": "No. 8 Bridge Art Space",
+      "zh": "八号桥艺术空间"
+    },
+    "category": "gallery",
+    "tags": [
+      "art-museums",
+      "hidden-gems"
+    ],
+    "district": "Huangpu",
+    "adjacent_districts": [
+      "Xuhui",
+      "Jing'an",
+      "Hongkou",
+      "Pudong"
+    ],
+    "lat": 31.219,
+    "lng": 121.4955,
+    "description": "Creative art space and event venue in converted industrial buildings along Suzhou Creek.",
+    "visit_duration_min": 75,
+    "cost_level": 0,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_067",
+    "name": {
+      "en": "Sihang Warehouse",
+      "zh": "四行仓库"
+    },
+    "category": "landmark",
+    "tags": [
+      "culture-history"
+    ],
+    "district": "Jing'an",
+    "adjacent_districts": [
+      "Huangpu",
+      "Changning",
+      "Putuo",
+      "Hongkou"
+    ],
+    "lat": 31.249,
+    "lng": 121.4535,
+    "description": "Historic warehouse famous for the 1937 Battle of Shanghai. Now a memorial museum with original bullet hole markings on the exterior. Free entry.",
+    "visit_duration_min": 45,
+    "cost_level": 0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Sihang_Warehouse_Shanghai.jpg/1280px-Sihang_Warehouse_Shanghai.jpg",
+    "curated": true
+  },
+  {
+    "id": "place_068",
+    "name": {
+      "en": "Sinan Mansions",
+      "zh": "思南公馆"
+    },
+    "category": "landmark",
+    "tags": [
+      "culture-history",
+      "food-drink"
+    ],
+    "district": "Huangpu",
+    "adjacent_districts": [
+      "Xuhui",
+      "Jing'an",
+      "Hongkou",
+      "Pudong"
+    ],
+    "lat": 31.2185,
+    "lng": 121.472,
+    "description": "Historic lane complex on Sinan Road. Cluster of restored villas housing restaurants, boutiques, and Sinan Books. Weekend farmer's market.",
+    "visit_duration_min": 45,
+    "cost_level": 0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Sinan_Mansions_Shanghai.JPG/330px-Sinan_Mansions_Shanghai.JPG",
+    "curated": true
+  },
+  {
+    "id": "place_069",
+    "name": {
+      "en": "Former Residence of Sun Yat-sen",
+      "zh": "孙中山故居"
+    },
+    "category": "landmark",
+    "tags": [
+      "culture-history"
+    ],
+    "district": "Huangpu",
+    "adjacent_districts": [
+      "Xuhui",
+      "Jing'an",
+      "Hongkou",
+      "Pudong"
+    ],
+    "lat": 31.219,
+    "lng": 121.473,
+    "description": "Preserved former home of Dr. Sun Yat-sen, founder of modern China. Museum with original furnishings and historical exhibits.",
+    "visit_duration_min": 45,
+    "cost_level": 0,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_070",
+    "name": {
+      "en": "Sinan Books",
+      "zh": "思南书局"
+    },
+    "category": "landmark",
+    "tags": [
+      "hidden-gems",
+      "culture-history"
+    ],
+    "district": "Huangpu",
+    "adjacent_districts": [
+      "Xuhui",
+      "Jing'an",
+      "Hongkou",
+      "Pudong"
+    ],
+    "lat": 31.2186,
+    "lng": 121.4718,
+    "description": "Iconic independent bookstore in a historic villa on Sinan Road. Regular literary events and book signings.",
+    "visit_duration_min": 45,
+    "cost_level": 0,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_071",
+    "name": {
+      "en": "Fuxing Park",
+      "zh": "复兴公园"
+    },
+    "category": "park",
+    "tags": [
+      "nature-parks",
+      "hidden-gems",
+      "family-friendly"
+    ],
+    "district": "Huangpu",
+    "adjacent_districts": [
+      "Xuhui",
+      "Jing'an",
+      "Hongkou",
+      "Pudong"
+    ],
+    "lat": 31.2166,
+    "lng": 121.469,
+    "description": "French-style park in the heart of the former French Concession. Roses, plane trees, dancing locals, live music. One of Shanghai's most charming green spaces.",
+    "visit_duration_min": 60,
+    "cost_level": 0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Fuxing_Park_Shanghai.jpg/1280px-Fuxing_Park_Shanghai.jpg",
+    "curated": true
+  },
+  {
+    "id": "place_072",
+    "name": {
+      "en": "Ohel Rachel Synagogue",
+      "zh": "西摩会堂"
+    },
+    "category": "landmark",
+    "tags": [
+      "culture-history",
+      "hidden-gems"
+    ],
+    "district": "Jing'an",
+    "adjacent_districts": [
+      "Huangpu",
+      "Changning",
+      "Putuo",
+      "Hongkou"
+    ],
+    "lat": 31.228,
+    "lng": 121.453,
+    "description": "One of Shanghai's oldest synagogues, built 1920. A relic of the Jewish community that thrived in Shanghai. Guided tours available.",
+    "visit_duration_min": 45,
+    "cost_level": 0,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_073",
+    "name": {
+      "en": "Rong House (Villa Lumière)",
+      "zh": "荣宅"
+    },
+    "category": "landmark",
+    "tags": [
+      "culture-history",
+      "art-museums",
+      "hidden-gems"
+    ],
+    "district": "Jing'an",
+    "adjacent_districts": [
+      "Huangpu",
+      "Changning",
+      "Putuo",
+      "Hongkou"
+    ],
+    "lat": 31.2283,
+    "lng": 121.4535,
+    "description": "Restored 1918 villa of the Rong family. Now a Prada-supported heritage space hosting exhibitions. Stunning European-style interiors.",
+    "visit_duration_min": 45,
+    "cost_level": 0,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_074",
+    "name": {
+      "en": "Tamburins Shanghai",
+      "zh": "Tamburins"
+    },
+    "category": "shopping",
+    "tags": [
+      "shopping",
+      "hidden-gems"
+    ],
+    "district": "Jing'an",
+    "adjacent_districts": [
+      "Huangpu",
+      "Changning",
+      "Putuo",
+      "Hongkou"
+    ],
+    "lat": 31.2284,
+    "lng": 121.4533,
+    "description": "Korean minimalist beauty and lifestyle brand. Known for beautifully curated store design.",
+    "visit_duration_min": 90,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_075",
+    "name": {
+      "en": "Russian Orthodox Cathedral (Holy Mother Cathedral)",
+      "zh": "东正教圣母大教堂"
+    },
+    "category": "landmark",
+    "tags": [
+      "culture-history",
+      "hidden-gems"
+    ],
+    "district": "Xuhui",
+    "adjacent_districts": [
+      "Huangpu",
+      "Changning",
+      "Minhang",
+      "Pudong"
+    ],
+    "lat": 31.211,
+    "lng": 121.459,
+    "description": "Striking blue-domed Russian Orthodox church. Built for Shanghai's Russian émigré community. Now a cultural heritage site.",
+    "visit_duration_min": 45,
+    "cost_level": 0,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_076",
+    "name": {
+      "en": "Xiangyang Park",
+      "zh": "襄阳公园"
+    },
+    "category": "park",
+    "tags": [
+      "nature-parks",
+      "hidden-gems"
+    ],
+    "district": "Xuhui",
+    "adjacent_districts": [
+      "Huangpu",
+      "Changning",
+      "Minhang",
+      "Pudong"
+    ],
+    "lat": 31.214,
+    "lng": 121.461,
+    "description": "Small but charming park in the French Concession. Popular with elderly locals for morning exercises and afternoon relaxation.",
+    "visit_duration_min": 60,
+    "cost_level": 0,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_077",
+    "name": {
+      "en": "Basuketto",
+      "zh": "Basuketto"
+    },
+    "category": "shopping",
+    "tags": [
+      "shopping",
+      "hidden-gems"
+    ],
+    "district": "Xuhui",
+    "adjacent_districts": [
+      "Huangpu",
+      "Changning",
+      "Minhang",
+      "Pudong"
+    ],
+    "lat": 31.2115,
+    "lng": 121.4592,
+    "description": "Japanese-style concept lifestyle store. Known for curated selection of home goods, snacks, and small accessories.",
+    "visit_duration_min": 90,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_078",
+    "name": {
+      "en": "Tokokun",
+      "zh": "Tokokun"
+    },
+    "category": "shopping",
+    "tags": [
+      "shopping",
+      "hidden-gems"
+    ],
+    "district": "Xuhui",
+    "adjacent_districts": [
+      "Huangpu",
+      "Changning",
+      "Minhang",
+      "Pudong"
+    ],
+    "lat": 31.2118,
+    "lng": 121.46,
+    "description": "Small, colourful lifestyle and gift shop. Instagram-popular for exterior signage.",
+    "visit_duration_min": 90,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_079",
+    "name": {
+      "en": "Wanwu Bookstore",
+      "zh": "万屋书店"
+    },
+    "category": "landmark",
+    "tags": [
+      "hidden-gems",
+      "culture-history"
+    ],
+    "district": "Changning",
+    "adjacent_districts": [
+      "Jing'an",
+      "Xuhui",
+      "Putuo",
+      "Minhang"
+    ],
+    "lat": 31.218,
+    "lng": 121.412,
+    "description": "Charming independent bookstore inside the historic Columbia Circle complex. Worth browsing.",
+    "visit_duration_min": 45,
+    "cost_level": 0,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_080",
+    "name": {
+      "en": "Sun Ke Villa",
+      "zh": "孙科别墅"
+    },
+    "category": "landmark",
+    "tags": [
+      "culture-history",
+      "hidden-gems"
+    ],
+    "district": "Changning",
+    "adjacent_districts": [
+      "Jing'an",
+      "Xuhui",
+      "Putuo",
+      "Minhang"
+    ],
+    "lat": 31.2182,
+    "lng": 121.4125,
+    "description": "Preserved 1931 villa of Sun Ke (son of Sun Yat-sen). Elegant colonial architecture inside the Columbia Circle complex.",
+    "visit_duration_min": 45,
+    "cost_level": 0,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_081",
+    "name": {
+      "en": "Xinfu Li (Happiness Lane)",
+      "zh": "幸福里"
+    },
+    "category": "gallery",
+    "tags": [
+      "art-museums",
+      "food-drink",
+      "hidden-gems"
+    ],
+    "district": "Changning",
+    "adjacent_districts": [
+      "Jing'an",
+      "Xuhui",
+      "Putuo",
+      "Minhang"
+    ],
+    "lat": 31.213,
+    "lng": 121.4205,
+    "description": "Renovated Shikumen lane complex with concept cafés, art galleries, and lifestyle boutiques. One of Xinhua Road's hidden gems.",
+    "visit_duration_min": 75,
+    "cost_level": 0,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_082",
+    "name": {
+      "en": "Libo Garden",
+      "zh": "丽波花园"
+    },
+    "category": "park",
+    "tags": [
+      "nature-parks",
+      "hidden-gems"
+    ],
+    "district": "Xuhui",
+    "adjacent_districts": [
+      "Huangpu",
+      "Changning",
+      "Minhang",
+      "Pudong"
+    ],
+    "lat": 31.209,
+    "lng": 121.462,
+    "description": "Peaceful garden with mature trees and fountain on Hengshan Road. Less visited than Fuxing Park but equally charming.",
+    "visit_duration_min": 60,
+    "cost_level": 0,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_083",
+    "name": {
+      "en": "The Normal Bagel",
+      "zh": "the normal bagel"
+    },
+    "category": "restaurant",
+    "tags": [
+      "food-drink"
+    ],
+    "district": "Xuhui",
+    "adjacent_districts": [
+      "Huangpu",
+      "Changning",
+      "Minhang",
+      "Pudong"
+    ],
+    "lat": 31.213,
+    "lng": 121.47,
+    "description": "Popular bagel shop on Yongjia Road. New York-style bagels with various fillings. Regular queues.",
+    "visit_duration_min": 60,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_084",
+    "name": {
+      "en": "gubigubi",
+      "zh": "gubigubi"
+    },
+    "category": "restaurant",
+    "tags": [
+      "food-drink",
+      "shopping",
+      "hidden-gems"
+    ],
+    "district": "Xuhui",
+    "adjacent_districts": [
+      "Huangpu",
+      "Changning",
+      "Minhang",
+      "Pudong"
+    ],
+    "lat": 31.2135,
+    "lng": 121.4705,
+    "description": "Unique café and ceramics shop on Yongjia Road. Known for handmade pottery and specialty coffee.",
+    "visit_duration_min": 60,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_085",
+    "name": {
+      "en": "Former Residence of Xia Yan",
+      "zh": "夏衍旧居"
+    },
+    "category": "landmark",
+    "tags": [
+      "culture-history",
+      "hidden-gems"
+    ],
+    "district": "Xuhui",
+    "adjacent_districts": [
+      "Huangpu",
+      "Changning",
+      "Minhang",
+      "Pudong"
+    ],
+    "lat": 31.2133,
+    "lng": 121.471,
+    "description": "Preserved former home of Xia Yan, celebrated Chinese screenwriter and cultural figure.",
+    "visit_duration_min": 45,
+    "cost_level": 0,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_086",
+    "name": {
+      "en": "Zhou Gong Guan (Zhou Enlai's Former Residence)",
+      "zh": "周公馆"
+    },
+    "category": "landmark",
+    "tags": [
+      "culture-history"
+    ],
+    "district": "Huangpu",
+    "adjacent_districts": [
+      "Xuhui",
+      "Jing'an",
+      "Hongkou",
+      "Pudong"
+    ],
+    "lat": 31.2192,
+    "lng": 121.4732,
+    "description": "Former residence and office of Zhou Enlai during the second KMT-CPC cooperation period. Free museum with period furnishings.",
+    "visit_duration_min": 45,
+    "cost_level": 0,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_087",
+    "name": {
+      "en": "No. 8 Hengshan Road",
+      "zh": "衡山路8号"
+    },
+    "category": "landmark",
+    "tags": [
+      "food-drink",
+      "nightlife"
+    ],
+    "district": "Xuhui",
+    "adjacent_districts": [
+      "Huangpu",
+      "Changning",
+      "Minhang",
+      "Pudong"
+    ],
+    "lat": 31.208,
+    "lng": 121.4605,
+    "description": "Historic complex on Hengshan Road with bars, restaurants and the iconic Hengshan bar street. Evening entertainment hub.",
+    "visit_duration_min": 45,
+    "cost_level": 0,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_088",
+    "name": {
+      "en": "Koreanya",
+      "zh": "Koreanya韩国城"
+    },
+    "category": "shopping",
+    "tags": [
+      "shopping",
+      "food-drink"
+    ],
+    "district": "Huangpu",
+    "adjacent_districts": [
+      "Xuhui",
+      "Jing'an",
+      "Hongkou",
+      "Pudong"
+    ],
+    "lat": 31.2265,
+    "lng": 121.475,
+    "description": "Multi-floor Korean shopping mall with glass skylight ceiling. Korean restaurants, fashion, beauty and food stalls. Unique indoor shopping experience.",
+    "visit_duration_min": 90,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_089",
+    "name": {
+      "en": "coffeaSHED",
+      "zh": "coffeaSHED"
+    },
+    "category": "restaurant",
+    "tags": [
+      "food-drink",
+      "hidden-gems"
+    ],
+    "district": "Changning",
+    "adjacent_districts": [
+      "Jing'an",
+      "Xuhui",
+      "Putuo",
+      "Minhang"
+    ],
+    "lat": 31.2182,
+    "lng": 121.4122,
+    "description": "Specialty coffee shop inside the Columbia Circle complex. Popular with the creative crowd.",
+    "visit_duration_min": 60,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_090",
+    "name": {
+      "en": "Drunk Baker",
+      "zh": "DRUNK BAKER"
+    },
+    "category": "restaurant",
+    "tags": [
+      "food-drink"
+    ],
+    "district": "Jing'an",
+    "adjacent_districts": [
+      "Huangpu",
+      "Changning",
+      "Putuo",
+      "Hongkou"
+    ],
+    "lat": 31.225,
+    "lng": 121.448,
+    "description": "Trendy Shanghai bakery known for creative flavour combinations and quality croissants.",
+    "visit_duration_min": 60,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_091",
+    "name": {
+      "en": "Longhua Pagoda & Temple",
+      "zh": "龙华塔 & 龙华寺"
+    },
+    "category": "landmark",
+    "tags": [
+      "culture-history",
+      "family-friendly"
+    ],
+    "district": "Xuhui",
+    "adjacent_districts": [
+      "Huangpu",
+      "Changning",
+      "Minhang",
+      "Pudong"
+    ],
+    "lat": 31.1785,
+    "lng": 121.4603,
+    "description": "Shanghai's oldest and largest Buddhist temple. 7-storey pagoda dating to the 3rd century CE. Cherry blossoms in spring.",
+    "visit_duration_min": 45,
+    "cost_level": 0,
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Longhua_Pagoda_Shanghai.jpg/800px-Longhua_Pagoda_Shanghai.jpg",
+    "curated": true
+  },
+  {
+    "id": "place_092",
+    "name": {
+      "en": "Haerbin Food Factory",
+      "zh": "哈氏上海哈尔滨食品厂"
+    },
+    "category": "restaurant",
+    "tags": [
+      "food-drink",
+      "culture-history"
+    ],
+    "district": "Huangpu",
+    "adjacent_districts": [
+      "Xuhui",
+      "Jing'an",
+      "Hongkou",
+      "Pudong"
+    ],
+    "lat": 31.2192,
+    "lng": 121.4728,
+    "description": "Shanghai institution selling classic Harbin-style cakes, biscuits and confections since the 1950s. Queue for the red bean cake.",
+    "visit_duration_min": 60,
+    "cost_level": 1,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_093",
+    "name": {
+      "en": "Shanghai Zoo",
+      "zh": "上海动物园"
+    },
+    "category": "landmark",
+    "tags": [
+      "family-friendly",
+      "nature-parks"
+    ],
+    "district": "Changning",
+    "adjacent_districts": [
+      "Jing'an",
+      "Xuhui",
+      "Putuo",
+      "Minhang"
+    ],
+    "lat": 31.1963,
+    "lng": 121.3668,
+    "description": "Asia's largest zoo covering 740,000 sqm with over 6,000 animals including 600+ rare species. Giant pandas, golden monkeys, snow leopards. Panda house and children's zoo are highlights.",
+    "visit_duration_min": 180,
+    "cost_level": 1,
+    "opening_hours": {
+      "mon": "07:00-17:00",
+      "tue": "07:00-17:00",
+      "wed": "07:00-17:00",
+      "thu": "07:00-17:00",
+      "fri": "07:00-17:00",
+      "sat": "07:00-17:00",
+      "sun": "07:00-17:00"
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Shanghai_Zoo_ticket_office.JPG/330px-Shanghai_Zoo_ticket_office.JPG",
+    "curated": true
+  },
+  {
+    "id": "place_094",
+    "name": {
+      "en": "Shanghai Disneyland",
+      "zh": "上海迪士尼乐园"
+    },
+    "category": "landmark",
+    "tags": [
+      "family-friendly"
+    ],
+    "district": "Pudong",
+    "adjacent_districts": [
+      "Huangpu",
+      "Xuhui",
+      "Yangpu"
+    ],
+    "lat": 31.144,
+    "lng": 121.657,
+    "description": "World-class theme park with 7 uniquely themed lands. TRON Lightcycle Power Run roller coaster, Pirates of the Caribbean: Battle for the Sunken Treasure, and Zootopia Land (opened 2023). Parades and nightly fireworks shows.",
+    "visit_duration_min": 480,
+    "cost_level": 3,
+    "opening_hours": {
+      "mon": "08:30-21:30",
+      "tue": "08:30-21:30",
+      "wed": "08:30-21:30",
+      "thu": "08:30-21:30",
+      "fri": "08:30-21:30",
+      "sat": "08:30-22:00",
+      "sun": "08:30-22:00"
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Shanghai_Disneyland_Enchanted_Storybook_Castle.jpg/1280px-Shanghai_Disneyland_Enchanted_Storybook_Castle.jpg",
+    "curated": true
+  },
+  {
+    "id": "place_095",
+    "name": {
+      "en": "LEGOLAND Shanghai Resort",
+      "zh": "乐高乐园上海度假区"
+    },
+    "category": "landmark",
+    "tags": [
+      "family-friendly"
+    ],
+    "district": "Jinshan",
+    "adjacent_districts": [
+      "Songjiang",
+      "Fengxian"
+    ],
+    "lat": 30.845,
+    "lng": 121.176,
+    "description": "China's first LEGOLAND Resort, second-largest globally. Opened July 2025. 8 themed areas, 75+ interactive attractions. LEGO City, NINJAGO World, LEGO Kingdoms. 1:1 LEGO brick replicas of global landmarks.",
+    "visit_duration_min": 360,
+    "cost_level": 3,
+    "opening_hours": {
+      "mon": "10:00-18:00",
+      "tue": "10:00-18:00",
+      "wed": "10:00-18:00",
+      "thu": "10:00-18:00",
+      "fri": "10:00-18:00",
+      "sat": "09:30-19:00",
+      "sun": "09:30-19:00"
+    },
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_096",
+    "name": {
+      "en": "Shanghai Museum East",
+      "zh": "上海博物馆东馆"
+    },
+    "category": "museum",
+    "tags": [
+      "culture-history",
+      "art-museums",
+      "family-friendly"
+    ],
+    "district": "Pudong",
+    "adjacent_districts": [
+      "Huangpu",
+      "Xuhui",
+      "Yangpu"
+    ],
+    "lat": 31.224,
+    "lng": 121.542,
+    "description": "New flagship branch of Shanghai Museum opened 2025. 13 permanent galleries with 145,000+ rare treasures. World's largest ancient Chinese art museum. Capacity 20,000 visitors/day. Free entry.",
+    "visit_duration_min": 150,
+    "cost_level": 0,
+    "opening_hours": {
+      "mon": "closed",
+      "tue": "10:00-18:00",
+      "wed": "10:00-18:00",
+      "thu": "10:00-18:00",
+      "fri": "10:00-18:00",
+      "sat": "10:00-18:00",
+      "sun": "10:00-18:00"
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Shanghai_Museum_East.jpg/330px-Shanghai_Museum_East.jpg",
+    "curated": true
+  },
+  {
+    "id": "place_097",
+    "name": {
+      "en": "Shanghai Astronomy Museum",
+      "zh": "上海天文馆"
+    },
+    "category": "museum",
+    "tags": [
+      "family-friendly",
+      "culture-history"
+    ],
+    "district": "Pudong",
+    "adjacent_districts": [
+      "Huangpu",
+      "Xuhui",
+      "Yangpu"
+    ],
+    "lat": 30.8839,
+    "lng": 121.9293,
+    "description": "World's largest astronomy museum. Spherical projection technology, 8K dome theater, VR Milky Way experience. Films about The Big Bang and Black Holes. Summer 2025 evening sessions on Saturdays 17:00–20:00.",
+    "visit_duration_min": 150,
+    "cost_level": 1,
+    "opening_hours": {
+      "mon": "closed",
+      "tue": "09:30-16:00",
+      "wed": "09:30-16:00",
+      "thu": "09:30-16:00",
+      "fri": "09:30-16:00",
+      "sat": "09:30-20:00",
+      "sun": "09:30-16:00"
+    },
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Shanghaitianwenguan.jpg/330px-Shanghaitianwenguan.jpg",
+    "curated": true
+  },
+  {
+    "id": "place_098",
+    "name": {
+      "en": "Shanghai Playa Maya Water Park",
+      "zh": "上海玛雅水公园"
+    },
+    "category": "landmark",
+    "tags": [
+      "family-friendly",
+      "nature-parks"
+    ],
+    "district": "Songjiang",
+    "adjacent_districts": [
+      "Minhang",
+      "Qingpu",
+      "Jiading",
+      "Jinshan",
+      "Fengxian"
+    ],
+    "lat": 31.07,
+    "lng": 121.24,
+    "description": "Largest water park in eastern China, 128,000 sqm. Wave pools, lazy river, extreme slides, sandy beach. Seasonal — open late June to early September only. Beach concerts and evening events.",
+    "visit_duration_min": 300,
+    "cost_level": 2,
+    "opening_hours": {
+      "mon": "09:30-22:00",
+      "tue": "09:30-22:00",
+      "wed": "09:30-22:00",
+      "thu": "09:30-22:00",
+      "fri": "09:30-22:00",
+      "sat": "09:30-22:00",
+      "sun": "09:30-22:00"
+    },
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_099",
+    "name": {
+      "en": "Shanghai Science & Technology Museum",
+      "zh": "上海科技馆"
+    },
+    "category": "museum",
+    "tags": [
+      "family-friendly",
+      "culture-history"
+    ],
+    "district": "Pudong",
+    "adjacent_districts": [
+      "Huangpu",
+      "Xuhui",
+      "Yangpu"
+    ],
+    "lat": 31.2183,
+    "lng": 121.5468,
+    "description": "One of China's top science museums with 14 permanent exhibitions. IMAX theater, biodiversity hall, robotics and space exploration galleries. Interactive exhibits for all ages.",
+    "visit_duration_min": 180,
+    "cost_level": 1,
+    "opening_hours": {
+      "mon": "closed",
+      "tue": "09:00-17:00",
+      "wed": "09:00-17:00",
+      "thu": "09:00-17:00",
+      "fri": "09:00-17:00",
+      "sat": "09:00-17:00",
+      "sun": "09:00-17:00"
+    },
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_100",
+    "name": {
+      "en": "Shanghai Greenhouse Garden",
+      "zh": "上海温室花园"
+    },
+    "category": "landmark",
+    "tags": [
+      "family-friendly",
+      "nature-parks"
+    ],
+    "district": "Pudong",
+    "adjacent_districts": [
+      "Huangpu",
+      "Xuhui",
+      "Yangpu"
+    ],
+    "lat": 31.18,
+    "lng": 121.57,
+    "description": "Asia's largest glass greenhouse. 3,000+ exotic plant species, rain forest dome, Dinosaur World, and butterfly garden. Opened 2024. Stunning architectural glass structure.",
+    "visit_duration_min": 150,
+    "cost_level": 2,
+    "opening_hours": {
+      "mon": "09:00-17:00",
+      "tue": "09:00-17:00",
+      "wed": "09:00-17:00",
+      "thu": "09:00-17:00",
+      "fri": "09:00-17:00",
+      "sat": "09:00-17:00",
+      "sun": "09:00-17:00"
+    },
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_101",
+    "name": {
+      "en": "Fengjing Ancient Town",
+      "zh": "枫泾古镇"
+    },
+    "category": "landmark",
+    "tags": [
+      "culture-history",
+      "hidden-gems",
+      "family-friendly"
+    ],
+    "district": "Jinshan",
+    "adjacent_districts": [
+      "Songjiang",
+      "Fengxian"
+    ],
+    "lat": 30.905,
+    "lng": 121.065,
+    "description": "1,500-year-old water town known as 'Home of Chinese Folk Painting'. 52 bridges, Ming and Qing dynasty architecture, whitewashed walls and black-tile roofs. Birthplace of Jinshan peasant painting. One of the four most famous towns in south China.",
+    "visit_duration_min": 180,
+    "cost_level": 1,
+    "opening_hours": {
+      "mon": "08:00-17:30",
+      "tue": "08:00-17:30",
+      "wed": "08:00-17:30",
+      "thu": "08:00-17:30",
+      "fri": "08:00-17:30",
+      "sat": "08:00-17:30",
+      "sun": "08:00-17:30"
+    },
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_102",
+    "name": {
+      "en": "Waibaidu Bridge (Garden Bridge)",
+      "zh": "外白渡桥"
+    },
+    "category": "landmark",
+    "tags": [
+      "culture-history",
+      "hidden-gems"
+    ],
+    "district": "Huangpu",
+    "adjacent_districts": [
+      "Xuhui",
+      "Jing'an",
+      "Hongkou",
+      "Pudong"
+    ],
+    "lat": 31.2432,
+    "lng": 121.4862,
+    "description": "China's oldest surviving all-steel riveted bridge, opened 1908. 106.7m camelback truss design. Connects the north end of The Bund to Hongkou. WWII landmark. Declared Heritage Architecture 1994. Best photographed at dusk.",
+    "visit_duration_min": 20,
+    "cost_level": 0,
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_103",
+    "name": {
+      "en": "Xinchang Ancient Town",
+      "zh": "新场古镇"
+    },
+    "category": "landmark",
+    "tags": [
+      "culture-history",
+      "hidden-gems",
+      "family-friendly"
+    ],
+    "district": "Pudong",
+    "adjacent_districts": [
+      "Huangpu",
+      "Xuhui",
+      "Yangpu"
+    ],
+    "lat": 30.89,
+    "lng": 121.76,
+    "description": "800-year-old Jiangnan water town in Pudong. 68 ornate gateways, 2km old street, 4 intersecting waterways, 20+ stone bridges. Less touristy than Zhujiajiao. Home to national intangible heritage: luogu shu storytelling and Pudong pipa school. 2025 World Heritage application.",
+    "visit_duration_min": 150,
+    "cost_level": 0,
+    "opening_hours": {
+      "mon": "08:00-17:30",
+      "tue": "08:00-17:30",
+      "wed": "08:00-17:30",
+      "thu": "08:00-17:30",
+      "fri": "08:00-17:30",
+      "sat": "08:00-17:30",
+      "sun": "08:00-17:30"
+    },
+    "image_url": "",
+    "curated": true
+  },
+  {
+    "id": "place_104",
+    "name": {
+      "en": "Suzhou Creek Walkway",
+      "zh": "苏州河滨水步道"
+    },
+    "category": "landmark",
+    "tags": [
+      "nature-parks",
+      "hidden-gems",
+      "culture-history"
+    ],
+    "district": "Jing'an",
+    "adjacent_districts": [
+      "Huangpu",
+      "Changning",
+      "Putuo",
+      "Hongkou"
+    ],
+    "lat": 31.2463,
+    "lng": 121.4404,
+    "description": "12.5km public waterfront pathway along Suzhou Creek. Walk, run, or cycle past M50 Art District, Sihang Warehouse, Fotografiska, 1933 Old Millfun, and riverside cafés. Blend of historic warehouses and contemporary art spaces. Far less crowded than The Bund.",
+    "visit_duration_min": 120,
+    "cost_level": 0,
+    "image_url": "",
+    "curated": true
+  },
+  {
     "id": "osm-267195089",
     "name": {
       "en": "Peace Cinema",
@@ -12863,25 +15632,6 @@
     "image_url": ""
   },
   {
-    "id": "manual-the-bund",
-    "name": {
-      "en": "The Bund",
-      "zh": "外滩"
-    },
-    "category": "landmark",
-    "tags": [
-      "culture-history",
-      "hidden-gems"
-    ],
-    "district": "Huangpu",
-    "lat": 31.24,
-    "lng": 121.4905,
-    "description": "Shanghai's iconic waterfront promenade stretches 1.5km along the Huangpu River, lined with 52 colonial-era buildings facing the glittering Pudong skyline. Best visited at sunset or after dark when both banks are illuminated.",
-    "visit_duration_min": 60,
-    "cost_level": 0,
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/The_Bund_2013.jpg/1280px-The_Bund_2013.jpg"
-  },
-  {
     "id": "manual-yu-garden",
     "name": {
       "en": "Yu Garden",
@@ -12919,86 +15669,6 @@
     "visit_duration_min": 45,
     "cost_level": 0,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/People%27s_Square_Shanghai.jpg/1280px-People%27s_Square_Shanghai.jpg"
-  },
-  {
-    "id": "manual-shanghai-museum",
-    "name": {
-      "en": "Shanghai Museum",
-      "zh": "上海博物馆"
-    },
-    "category": "museum",
-    "tags": [
-      "culture-history",
-      "art-museums",
-      "family-friendly"
-    ],
-    "district": "Huangpu",
-    "lat": 31.23,
-    "lng": 121.4737,
-    "description": "One of China's premier museums with a world-class collection of ancient Chinese art spanning 11 galleries. The bronze, ceramics, and calligraphy collections are particularly outstanding.",
-    "visit_duration_min": 150,
-    "cost_level": 0,
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Shanghai_museum_structure.jpg/1280px-Shanghai_museum_structure.jpg"
-  },
-  {
-    "id": "manual-tianzifang",
-    "name": {
-      "en": "Tianzifang",
-      "zh": "田子坊"
-    },
-    "category": "neighborhood",
-    "tags": [
-      "art-museums",
-      "shopping",
-      "food-drink",
-      "hidden-gems"
-    ],
-    "district": "Xuhui",
-    "lat": 31.2097,
-    "lng": 121.4674,
-    "description": "A labyrinthine arts and crafts enclave hidden inside a 1930s lane house complex. Galleries, boutique cafés, independent fashion shops, and street food stalls fill the narrow alleyways.",
-    "visit_duration_min": 90,
-    "cost_level": 1,
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Tianzifang_Shanghai.jpg/1280px-Tianzifang_Shanghai.jpg"
-  },
-  {
-    "id": "manual-xintiandi",
-    "name": {
-      "en": "Xintiandi",
-      "zh": "新天地"
-    },
-    "category": "neighborhood",
-    "tags": [
-      "food-drink",
-      "shopping",
-      "culture-history"
-    ],
-    "district": "Xuhui",
-    "lat": 31.2195,
-    "lng": 121.4738,
-    "description": "A pedestrianized entertainment district built around restored 1920s shikumen (stone gate) townhouses. High-end restaurants, cocktail bars, and boutiques fill the preserved colonial architecture.",
-    "visit_duration_min": 90,
-    "cost_level": 2,
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Xintiandi_Shanghai.jpg/1280px-Xintiandi_Shanghai.jpg"
-  },
-  {
-    "id": "manual-oriental-pearl",
-    "name": {
-      "en": "Oriental Pearl Tower",
-      "zh": "东方明珠塔"
-    },
-    "category": "viewpoint",
-    "tags": [
-      "culture-history",
-      "family-friendly"
-    ],
-    "district": "Pudong",
-    "lat": 31.2397,
-    "lng": 121.4997,
-    "description": "Shanghai's iconic pink-and-purple broadcast tower (468m) with observation decks at three levels and a revolving restaurant. The ground-floor Shanghai History Museum is free with tower entry.",
-    "visit_duration_min": 90,
-    "cost_level": 2,
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Oriental_Pearl_Tower.jpg/800px-Oriental_Pearl_Tower.jpg"
   },
   {
     "id": "manual-shanghai-tower",
@@ -13077,26 +15747,6 @@
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/M50_Shanghai.jpg/1280px-M50_Shanghai.jpg"
   },
   {
-    "id": "manual-1933-slaughterhouse",
-    "name": {
-      "en": "1933 Old Millfun",
-      "zh": "1933老场坊"
-    },
-    "category": "gallery",
-    "tags": [
-      "art-museums",
-      "hidden-gems",
-      "food-drink"
-    ],
-    "district": "Hongkou",
-    "lat": 31.2603,
-    "lng": 121.4933,
-    "description": "A stunning Art Deco former abattoir (1933) converted into a creative space of galleries, restaurants, and concept stores. The geometric concrete interior — bridges, spiral ramps, cattle walkways — is architecturally breathtaking.",
-    "visit_duration_min": 75,
-    "cost_level": 0,
-    "image_url": ""
-  },
-  {
     "id": "manual-zhujiajiao",
     "name": {
       "en": "Zhujiajiao Water Town",
@@ -13156,26 +15806,6 @@
     "image_url": ""
   },
   {
-    "id": "manual-fuxing-park",
-    "name": {
-      "en": "Fuxing Park",
-      "zh": "复兴公园"
-    },
-    "category": "park",
-    "tags": [
-      "nature-parks",
-      "hidden-gems",
-      "family-friendly"
-    ],
-    "district": "Xuhui",
-    "lat": 31.2166,
-    "lng": 121.469,
-    "description": "A graceful French-style garden (1909) in the heart of the former French Concession, popular with locals doing morning tai chi, ballroom dancing, and mahjong under the plane trees.",
-    "visit_duration_min": 60,
-    "cost_level": 0,
-    "image_url": ""
-  },
-  {
     "id": "manual-yuyuan-bazaar",
     "name": {
       "en": "Yuyuan Bazaar",
@@ -13192,45 +15822,6 @@
     "lng": 121.492,
     "description": "The old-city market surrounding Yu Garden, crammed with soup dumplings, glutinous rice cakes, and traditional snacks. Hunt for xiaolongbao at Nanxiang Steamed Bun Restaurant and sesame candy in the side lanes.",
     "visit_duration_min": 75,
-    "cost_level": 1,
-    "image_url": ""
-  },
-  {
-    "id": "manual-wukang-road",
-    "name": {
-      "en": "Wukang Road",
-      "zh": "武康路"
-    },
-    "category": "neighborhood",
-    "tags": [
-      "hidden-gems",
-      "culture-history",
-      "food-drink"
-    ],
-    "district": "Xuhui",
-    "lat": 31.21,
-    "lng": 121.4473,
-    "description": "A 1.17km tree-lined boulevard of French Concession heritage villas, boutique cafés, and independent bookstores. The Normandie Apartments (1924) at the north end is Shanghai's most photographed building.",
-    "visit_duration_min": 60,
-    "cost_level": 0,
-    "image_url": ""
-  },
-  {
-    "id": "manual-nanjing-road",
-    "name": {
-      "en": "Nanjing Road Pedestrian Street",
-      "zh": "南京路步行街"
-    },
-    "category": "shopping",
-    "tags": [
-      "shopping",
-      "food-drink"
-    ],
-    "district": "Huangpu",
-    "lat": 31.2354,
-    "lng": 121.476,
-    "description": "One of the world's busiest shopping streets, stretching 1.2km from People's Square to the Bund. A mix of flagship international brands, century-old department stores, and street food vendors.",
-    "visit_duration_min": 90,
     "cost_level": 1,
     "image_url": ""
   },

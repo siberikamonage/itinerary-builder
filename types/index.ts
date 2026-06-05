@@ -55,12 +55,15 @@ export interface Place {
   category: PlaceCategory
   tags: TripGoal[]
   district: ShanghaiDistrict
+  adjacent_districts?: ShanghaiDistrict[]
   lat: number
   lng: number
   description: string
   visit_duration_min: number
   cost_level: CostLevel
+  opening_hours?: Record<string, string>
   image_url?: string
+  curated?: boolean
 }
 
 // ─── Parsed user restrictions derived from free-text limitations field ─────────

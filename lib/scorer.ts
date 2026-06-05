@@ -38,5 +38,8 @@ export function scorePlace(
     }
   }
 
+  // ── Curated bonus: hand-picked places rank above OSM equivalents ─────────────
+  if (place.curated) score += 3
+
   return score
 }

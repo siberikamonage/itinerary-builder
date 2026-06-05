@@ -32,3 +32,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# data pipeline intermediates — not needed at runtime
+public/data/*.bak
+public/data/curated-geocoded.json
