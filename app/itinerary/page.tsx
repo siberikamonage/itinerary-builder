@@ -2,6 +2,7 @@
 
 import { useEffect } from 'react'
 import { useRouter } from 'next/navigation'
+import Link from 'next/link'
 import { useItinerary } from '@/context/ItineraryContext'
 import { DayCard } from '@/components/itinerary/DayCard'
 
@@ -49,7 +50,7 @@ export default function ItineraryPage() {
           />
         ))}
 
-        {/* Footer action */}
+        {/* Footer actions */}
         <button
           onClick={() => { reset(); router.push('/') }}
           className="w-full py-4 border-2 border-gray-200 text-gray-400 font-medium
@@ -57,6 +58,14 @@ export default function ItineraryPage() {
         >
           Start over
         </button>
+
+        <Link
+          href="/places"
+          className="block text-center text-sm text-gray-400 py-2
+                     active:text-gray-600 transition-colors"
+        >
+          Browse all places →
+        </Link>
       </div>
     </div>
   )

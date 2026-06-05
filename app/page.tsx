@@ -26,6 +26,15 @@ export default function LandingPage() {
         >
           Plan my trip →
         </Link>
+
+        <Link
+          href="/places"
+          className="w-full py-3 border-2 border-gray-100 text-gray-400 text-base
+                     font-medium rounded-2xl text-center block active:bg-gray-50
+                     transition-colors"
+        >
+          Browse all places →
+        </Link>
       </div>
     </main>
   )

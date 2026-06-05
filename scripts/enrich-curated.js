@@ -176,6 +176,7 @@ function main() {
       tags:               mappedTags,
       district:           place.district,
       adjacent_districts: ADJACENT[place.district] || [],
+      ...(place.address ? { address: place.address } : {}),
       lat:                place.lat,
       lng:                place.lng,
       description,

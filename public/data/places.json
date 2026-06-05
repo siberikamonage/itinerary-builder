@@ -24,7 +24,8 @@
     "visit_duration_min": 45,
     "cost_level": 0,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/The_Bund_2013.jpg/1280px-The_Bund_2013.jpg",
-    "curated": true
+    "curated": true,
+    "address": "Zhongshan East 1st Road, Huangpu District"
   },
   {
     "id": "place_002",
@@ -51,7 +52,8 @@
     "visit_duration_min": 120,
     "cost_level": 1,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Shanghai_museum_structure.jpg/1280px-Shanghai_museum_structure.jpg",
-    "curated": true
+    "curated": true,
+    "address": "No. 201 Renmin Avenue, Huangpu District (People's Square Station, Metro Line 1/2/8)"
   },
   {
     "id": "place_003",
@@ -77,7 +79,8 @@
     "visit_duration_min": 45,
     "cost_level": 0,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Oriental_Pearl_Tower.jpg/800px-Oriental_Pearl_Tower.jpg",
-    "curated": true
+    "curated": true,
+    "address": "No. 1 Century Avenue, Pudong District (Lujiazui Station, Metro Line 2)"
   },
   {
     "id": "place_004",
@@ -103,7 +106,8 @@
     "visit_duration_min": 90,
     "cost_level": 1,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/East_Nanjing_Road_2020_%2850361842166%29.jpg/330px-East_Nanjing_Road_2020_%2850361842166%29.jpg",
-    "curated": true
+    "curated": true,
+    "address": "East Nanjing Road, Huangpu District (Nanjing East Road Station, Metro Line 2/10)"
   },
   {
     "id": "place_005",
@@ -131,7 +135,8 @@
     "visit_duration_min": 90,
     "cost_level": 1,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Tianzifang_Shanghai.jpg/1280px-Tianzifang_Shanghai.jpg",
-    "curated": true
+    "curated": true,
+    "address": "Lane 210, Taikang Road, Huangpu District (Dapuqiao Station, Metro Line 9)"
   },
   {
     "id": "place_006",
@@ -158,7 +163,8 @@
     "visit_duration_min": 90,
     "cost_level": 1,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Xintiandi5.jpg/330px-Xintiandi5.jpg",
-    "curated": true
+    "curated": true,
+    "address": "Lane 181, Taicang Road, Huangpu District (Xintiandi Station, Metro Line 10/13)"
   },
   {
     "id": "place_007",
@@ -185,7 +191,8 @@
     "visit_duration_min": 45,
     "cost_level": 0,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Wukang_109.JPG/330px-Wukang_109.JPG",
-    "curated": true
+    "curated": true,
+    "address": "Wukang Road, Xuhui District (Jiaotong University Station, Metro Line 10/11)"
   },
   {
     "id": "place_008",
@@ -211,7 +218,8 @@
     "visit_duration_min": 45,
     "cost_level": 0,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Wukang_Building_Shanghai.jpg/800px-Wukang_Building_Shanghai.jpg",
-    "curated": true
+    "curated": true,
+    "address": "Wukang Road, Xuhui District"
   },
   {
     "id": "place_009",
@@ -237,7 +245,8 @@
     "visit_duration_min": 90,
     "cost_level": 2,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/%E4%B8%8A%E6%B5%B7%E5%89%8D%E6%BB%A9%E5%A4%AA%E5%8F%A4%E9%87%8C.jpg/330px-%E4%B8%8A%E6%B5%B7%E5%89%8D%E6%BB%A9%E5%A4%AA%E5%8F%A4%E9%87%8C.jpg",
-    "curated": true
+    "curated": true,
+    "address": "Lane 500, Dongyu Road, Pudong New District (Dongfang Sports Center Station, Metro Line 6/8/11)"
   },
   {
     "id": "place_010",
@@ -262,7 +271,8 @@
     "visit_duration_min": 90,
     "cost_level": 2,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "1515 West Nanjing Road, Jing'an District (Jing'an Temple Station, Metro Line 2/7)"
   },
   {
     "id": "place_011",
@@ -287,7 +297,8 @@
     "visit_duration_min": 45,
     "cost_level": 0,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "219 Jiujiang Road, Huangpu District"
   },
   {
     "id": "place_012",
@@ -312,7 +323,8 @@
     "visit_duration_min": 45,
     "cost_level": 0,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "309 Hankou Road, Huangpu District"
   },
   {
     "id": "place_013",
@@ -337,7 +349,8 @@
     "visit_duration_min": 45,
     "cost_level": 0,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "No. 1 Lingang Avenue, Pudong New District"
   },
   {
     "id": "place_014",
@@ -364,7 +377,8 @@
     "visit_duration_min": 120,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "No. 100, Huayuan Port Road, Huangpu District"
   },
   {
     "id": "place_015",
@@ -389,7 +403,8 @@
     "visit_duration_min": 120,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "No. 380 Lingang Avenue, Pudong New Area"
   },
   {
     "id": "place_016",
@@ -416,7 +431,8 @@
     "visit_duration_min": 120,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "No. 200, Huayuan Port Road, Huangpu District"
   },
   {
     "id": "place_017",
@@ -443,7 +459,8 @@
     "visit_duration_min": 75,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "No. 318 Urumqi Middle Road, Xuhui District"
   },
   {
     "id": "place_018",
@@ -470,7 +487,8 @@
     "visit_duration_min": 75,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "No. 1539 Lingshi Road (Xincun Road Station, Metro Line 7)"
   },
   {
     "id": "place_019",
@@ -495,7 +513,8 @@
     "visit_duration_min": 60,
     "cost_level": 2,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "103, No. 7 Maoming South Road, Huangpu District"
   },
   {
     "id": "place_020",
@@ -520,7 +539,8 @@
     "visit_duration_min": 60,
     "cost_level": 2,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "No. 107, Sinan Road, Huangpu District"
   },
   {
     "id": "place_021",
@@ -548,7 +568,8 @@
     "visit_duration_min": 75,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Sijing Ancient Town, Songjiang District"
   },
   {
     "id": "place_022",
@@ -573,7 +594,8 @@
     "visit_duration_min": 75,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "104A, No. 99 Gongping Road, Hongkou District"
   },
   {
     "id": "place_023",
@@ -598,7 +620,8 @@
     "visit_duration_min": 60,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Madang Road area, Huangpu District"
   },
   {
     "id": "place_024",
@@ -623,7 +646,8 @@
     "visit_duration_min": 60,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Xintiandi / Madang Road area"
   },
   {
     "id": "place_025",
@@ -648,7 +672,8 @@
     "visit_duration_min": 60,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "路269号 黄浦江购物中心1楼105号"
   },
   {
     "id": "place_026",
@@ -674,7 +699,8 @@
     "visit_duration_min": 90,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Xintiandi, Huangpu District"
   },
   {
     "id": "place_027",
@@ -699,7 +725,8 @@
     "visit_duration_min": 90,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Xintiandi / Madang Road area"
   },
   {
     "id": "place_028",
@@ -724,7 +751,8 @@
     "visit_duration_min": 90,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Xintiandi area"
   },
   {
     "id": "place_029",
@@ -749,7 +777,8 @@
     "visit_duration_min": 60,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "上海长宁区兴国路380号"
   },
   {
     "id": "place_030",
@@ -774,7 +803,8 @@
     "visit_duration_min": 60,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "静安区 (70m walk from Exit 4, Nanjing West Road Metro Station)"
   },
   {
     "id": "place_031",
@@ -799,7 +829,8 @@
     "visit_duration_min": 60,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "法式古堡面包坊 新天地店"
   },
   {
     "id": "place_032",
@@ -824,7 +855,8 @@
     "visit_duration_min": 60,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "上海聚店 (multiple locations)"
   },
   {
     "id": "place_033",
@@ -849,7 +881,8 @@
     "visit_duration_min": 60,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "静安嘉里中心店 (Jing'an Kerry Centre)"
   },
   {
     "id": "place_034",
@@ -874,7 +907,8 @@
     "visit_duration_min": 60,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "博华广场店 (near Natural History Museum)"
   },
   {
     "id": "place_035",
@@ -899,7 +933,8 @@
     "visit_duration_min": 60,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Shanghai (French Concession area)"
   },
   {
     "id": "place_036",
@@ -924,7 +959,8 @@
     "visit_duration_min": 60,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Shanghai"
   },
   {
     "id": "place_037",
@@ -949,7 +985,8 @@
     "visit_duration_min": 60,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Shanghai (French Concession area)"
   },
   {
     "id": "place_038",
@@ -974,7 +1011,8 @@
     "visit_duration_min": 60,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Shanghai (French Concession area)"
   },
   {
     "id": "place_039",
@@ -999,7 +1037,8 @@
     "visit_duration_min": 60,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Shanghai"
   },
   {
     "id": "place_040",
@@ -1025,7 +1064,8 @@
     "visit_duration_min": 60,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Near The Bund, Huangpu District"
   },
   {
     "id": "place_041",
@@ -1051,7 +1091,8 @@
     "visit_duration_min": 60,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Shanghai (French Concession area)"
   },
   {
     "id": "place_042",
@@ -1076,7 +1117,8 @@
     "visit_duration_min": 60,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Shanghai (Pudong area)"
   },
   {
     "id": "place_043",
@@ -1101,7 +1143,8 @@
     "visit_duration_min": 60,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "North Bund area, Hongkou District"
   },
   {
     "id": "place_044",
@@ -1126,7 +1169,8 @@
     "visit_duration_min": 60,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Suzhou Creek riverside, Putuo District"
   },
   {
     "id": "place_045",
@@ -1150,7 +1194,8 @@
     "visit_duration_min": 90,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Qipu Road, Hongkou District"
   },
   {
     "id": "place_046",
@@ -1175,7 +1220,8 @@
     "visit_duration_min": 90,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Huaihai Middle Road, Huangpu District"
   },
   {
     "id": "place_047",
@@ -1201,7 +1247,8 @@
     "visit_duration_min": 45,
     "cost_level": 0,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Anfu Road, Xuhui District"
   },
   {
     "id": "place_048",
@@ -1226,7 +1273,8 @@
     "visit_duration_min": 90,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Anfu Road area, Xuhui District"
   },
   {
     "id": "place_049",
@@ -1251,7 +1299,8 @@
     "visit_duration_min": 90,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Anfu Road, Xuhui District"
   },
   {
     "id": "place_050",
@@ -1277,7 +1326,8 @@
     "visit_duration_min": 120,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Near The Bund, Huangpu District"
   },
   {
     "id": "place_051",
@@ -1303,7 +1353,8 @@
     "visit_duration_min": 45,
     "cost_level": 0,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Shanghai (Jing'an District)"
   },
   {
     "id": "place_052",
@@ -1328,7 +1379,8 @@
     "visit_duration_min": 45,
     "cost_level": 0,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Shanghai (Jing'an / French Concession border)"
   },
   {
     "id": "place_053",
@@ -1354,7 +1406,8 @@
     "visit_duration_min": 45,
     "cost_level": 0,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Intersection of Taiyuan Road and Yongjia Road, French Concession"
   },
   {
     "id": "place_054",
@@ -1378,7 +1431,8 @@
     "visit_duration_min": 45,
     "cost_level": 0,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "North Bund, Hongkou District"
   },
   {
     "id": "place_055",
@@ -1404,7 +1458,8 @@
     "visit_duration_min": 75,
     "cost_level": 0,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/M50_Shanghai.jpg/1280px-M50_Shanghai.jpg",
-    "curated": true
+    "curated": true,
+    "address": "No. 50 Moganshan Road, Putuo District"
   },
   {
     "id": "place_056",
@@ -1430,7 +1485,8 @@
     "visit_duration_min": 75,
     "cost_level": 0,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "No. 10 Shajing Road, Hongkou District"
   },
   {
     "id": "place_057",
@@ -1455,7 +1511,8 @@
     "visit_duration_min": 75,
     "cost_level": 0,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "No. 535, Jinqiao Road, Pudong New District"
   },
   {
     "id": "place_058",
@@ -1482,7 +1539,8 @@
     "visit_duration_min": 45,
     "cost_level": 0,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Shanghai"
   },
   {
     "id": "place_059",
@@ -1509,7 +1567,8 @@
     "visit_duration_min": 90,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "No. 100, Fujian North Road, Jing'an District"
   },
   {
     "id": "place_060",
@@ -1537,7 +1596,8 @@
     "visit_duration_min": 75,
     "cost_level": 0,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "No. 60, Panyu Road, Changning District"
   },
   {
     "id": "place_061",
@@ -1564,7 +1624,8 @@
     "visit_duration_min": 75,
     "cost_level": 0,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "No. 2778, Longhua Road, Xuhui District"
   },
   {
     "id": "place_062",
@@ -1591,7 +1652,8 @@
     "visit_duration_min": 75,
     "cost_level": 0,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "No. 358, Kangding Road, Jing'an District"
   },
   {
     "id": "place_063",
@@ -1617,7 +1679,8 @@
     "visit_duration_min": 75,
     "cost_level": 0,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "No. 261, Changshou Road, Putuo District"
   },
   {
     "id": "place_064",
@@ -1643,7 +1706,8 @@
     "visit_duration_min": 45,
     "cost_level": 0,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Xinhua Road, Changning District"
   },
   {
     "id": "place_065",
@@ -1670,7 +1734,8 @@
     "visit_duration_min": 120,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Suzhou Creek area, Jing'an District"
   },
   {
     "id": "place_066",
@@ -1696,7 +1761,8 @@
     "visit_duration_min": 75,
     "cost_level": 0,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Suzhou Creek area"
   },
   {
     "id": "place_067",
@@ -1721,7 +1787,8 @@
     "visit_duration_min": 45,
     "cost_level": 0,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Sihang_Warehouse_Shanghai.jpg/1280px-Sihang_Warehouse_Shanghai.jpg",
-    "curated": true
+    "curated": true,
+    "address": "Suzhou Creek north bank, Jing'an District"
   },
   {
     "id": "place_068",
@@ -1747,7 +1814,8 @@
     "visit_duration_min": 45,
     "cost_level": 0,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Sinan_Mansions_Shanghai.JPG/330px-Sinan_Mansions_Shanghai.JPG",
-    "curated": true
+    "curated": true,
+    "address": "Sinan Road, Huangpu District"
   },
   {
     "id": "place_069",
@@ -1772,7 +1840,8 @@
     "visit_duration_min": 45,
     "cost_level": 0,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Sinan Road, Huangpu District"
   },
   {
     "id": "place_070",
@@ -1798,7 +1867,8 @@
     "visit_duration_min": 45,
     "cost_level": 0,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Sinan Road, Huangpu District"
   },
   {
     "id": "place_071",
@@ -1825,7 +1895,8 @@
     "visit_duration_min": 60,
     "cost_level": 0,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Fuxing_Park_Shanghai.jpg/1280px-Fuxing_Park_Shanghai.jpg",
-    "curated": true
+    "curated": true,
+    "address": "Fuxing Middle Road, Huangpu District"
   },
   {
     "id": "place_072",
@@ -1851,7 +1922,8 @@
     "visit_duration_min": 45,
     "cost_level": 0,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "陕西北路 (Shaanxi North Road), Jing'an District"
   },
   {
     "id": "place_073",
@@ -1878,7 +1950,8 @@
     "visit_duration_min": 45,
     "cost_level": 0,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Shaanxi North Road, Jing'an District"
   },
   {
     "id": "place_074",
@@ -1904,7 +1977,8 @@
     "visit_duration_min": 90,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Shaanxi North Road area, Jing'an District"
   },
   {
     "id": "place_075",
@@ -1930,7 +2004,8 @@
     "visit_duration_min": 45,
     "cost_level": 0,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Xinle Road, Xuhui District"
   },
   {
     "id": "place_076",
@@ -1956,7 +2031,8 @@
     "visit_duration_min": 60,
     "cost_level": 0,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Xiangyang South Road, Xuhui District"
   },
   {
     "id": "place_077",
@@ -1982,7 +2058,8 @@
     "visit_duration_min": 90,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Xinle Road / Xuhui area"
   },
   {
     "id": "place_078",
@@ -2008,7 +2085,8 @@
     "visit_duration_min": 90,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Xinle Road area, Xuhui District"
   },
   {
     "id": "place_079",
@@ -2034,7 +2112,8 @@
     "visit_duration_min": 45,
     "cost_level": 0,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Columbia Circle / Shangshenxinsuo, Changning District"
   },
   {
     "id": "place_080",
@@ -2060,7 +2139,8 @@
     "visit_duration_min": 45,
     "cost_level": 0,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Columbia Circle, Panyu Road, Changning District"
   },
   {
     "id": "place_081",
@@ -2087,7 +2167,8 @@
     "visit_duration_min": 75,
     "cost_level": 0,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Xinhua Road area, Changning District"
   },
   {
     "id": "place_082",
@@ -2113,7 +2194,8 @@
     "visit_duration_min": 60,
     "cost_level": 0,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Hengshan Road area, Xuhui District"
   },
   {
     "id": "place_083",
@@ -2138,7 +2220,8 @@
     "visit_duration_min": 60,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Yongjia Road area, Xuhui District"
   },
   {
     "id": "place_084",
@@ -2165,7 +2248,8 @@
     "visit_duration_min": 60,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Yongjia Road, Xuhui District"
   },
   {
     "id": "place_085",
@@ -2191,7 +2275,8 @@
     "visit_duration_min": 45,
     "cost_level": 0,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Yongjia Road, Xuhui District"
   },
   {
     "id": "place_086",
@@ -2216,7 +2301,8 @@
     "visit_duration_min": 45,
     "cost_level": 0,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Sinan Road, Huangpu District"
   },
   {
     "id": "place_087",
@@ -2242,7 +2328,8 @@
     "visit_duration_min": 45,
     "cost_level": 0,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "No. 8 Hengshan Road, Xuhui District"
   },
   {
     "id": "place_088",
@@ -2268,7 +2355,8 @@
     "visit_duration_min": 90,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Shanghai (Huangpu area)"
   },
   {
     "id": "place_089",
@@ -2294,7 +2382,8 @@
     "visit_duration_min": 60,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Columbia Circle area, Changning District"
   },
   {
     "id": "place_090",
@@ -2319,7 +2408,8 @@
     "visit_duration_min": 60,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Shanghai (Jing'an area)"
   },
   {
     "id": "place_091",
@@ -2345,7 +2435,8 @@
     "visit_duration_min": 45,
     "cost_level": 0,
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Longhua_Pagoda_Shanghai.jpg/800px-Longhua_Pagoda_Shanghai.jpg",
-    "curated": true
+    "curated": true,
+    "address": "No. 2853 Longhua Road, Xuhui District"
   },
   {
     "id": "place_092",
@@ -2371,7 +2462,8 @@
     "visit_duration_min": 60,
     "cost_level": 1,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Madang Road / Xintiandi area, Huangpu District"
   },
   {
     "id": "place_093",
@@ -2406,7 +2498,8 @@
       "sun": "07:00-17:00"
     },
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Shanghai_Zoo_ticket_office.JPG/330px-Shanghai_Zoo_ticket_office.JPG",
-    "curated": true
+    "curated": true,
+    "address": "No. 2381 Hongqiao Road, Changning District (Hongqiao Road Station, Metro Line 10)"
   },
   {
     "id": "place_094",
@@ -2439,7 +2532,8 @@
       "sun": "08:30-22:00"
     },
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Shanghai_Disneyland_Enchanted_Storybook_Castle.jpg/1280px-Shanghai_Disneyland_Enchanted_Storybook_Castle.jpg",
-    "curated": true
+    "curated": true,
+    "address": "No. 310 Huangzhao Road, Chuansha Town, Pudong New Area (Disney Station, Metro Line 11)"
   },
   {
     "id": "place_095",
@@ -2471,7 +2565,8 @@
       "sun": "09:30-19:00"
     },
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "No. 999, Lebin Road, Fengjing Town, Jinshan District (1km from Jinshan North Railway Station)"
   },
   {
     "id": "place_096",
@@ -2506,7 +2601,8 @@
       "sun": "10:00-18:00"
     },
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Shanghai_Museum_East.jpg/330px-Shanghai_Museum_East.jpg",
-    "curated": true
+    "curated": true,
+    "address": "No. 1952 Century Avenue, Pudong New Area (Shanghai Science & Technology Museum Station, Metro Line 2/4/6)"
   },
   {
     "id": "place_097",
@@ -2540,7 +2636,8 @@
       "sun": "09:30-16:00"
     },
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Shanghaitianwenguan.jpg/330px-Shanghaitianwenguan.jpg",
-    "curated": true
+    "curated": true,
+    "address": "No. 380 Lingang Avenue, Pudong New Area (Dishui Lake Station, Metro Line 16, then 10-min walk)"
   },
   {
     "id": "place_098",
@@ -2576,7 +2673,8 @@
       "sun": "09:30-22:00"
     },
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "No. 888, Linhu Road, Sheshan Town, Songjiang District (Sheshan Station, Metro Line 9 + free shuttle)"
   },
   {
     "id": "place_099",
@@ -2610,7 +2708,8 @@
       "sun": "09:00-17:00"
     },
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "No. 2000 Century Avenue, Pudong New Area (Shanghai Science & Technology Museum Station, Metro Line 2)"
   },
   {
     "id": "place_100",
@@ -2644,7 +2743,8 @@
       "sun": "09:00-17:00"
     },
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Pudong New Area, Shanghai"
   },
   {
     "id": "place_101",
@@ -2678,7 +2778,8 @@
       "sun": "08:00-17:30"
     },
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "28 Alley 8588, Tingfeng Road, Fengjing Town, Jinshan District (57km from city center)"
   },
   {
     "id": "place_102",
@@ -2704,7 +2805,8 @@
     "visit_duration_min": 20,
     "cost_level": 0,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "Junction of Suzhou Creek and Huangpu River, Huangpu District (connecting Huangpu and Hongkou)"
   },
   {
     "id": "place_103",
@@ -2739,7 +2841,8 @@
       "sun": "08:00-17:30"
     },
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "No. 128 Haiquan Street, Pudong New Area (36km from city center, near Pudong Airport)"
   },
   {
     "id": "place_104",
@@ -2766,7 +2869,8 @@
     "visit_duration_min": 120,
     "cost_level": 0,
     "image_url": "",
-    "curated": true
+    "curated": true,
+    "address": "12.5km riverside pathway from Waibaidu Bridge to Shanghai Central Station (multiple Metro access points)"
   },
   {
     "id": "osm-267195089",

@@ -63,6 +63,7 @@ export interface Place {
   cost_level: CostLevel
   opening_hours?: Record<string, string>
   image_url?: string
+  address?: string
   curated?: boolean
 }
 
